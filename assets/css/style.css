@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    margin: 0px;
+}
+
+/*Homepage style rules*/
+
+#hero-image {
+    margin: 0px;
+    height: 100vh;
+    background: url(../images/sitephotos/Joe2019.jpg) no-repeat;
+    background-size: 115%;
+}
