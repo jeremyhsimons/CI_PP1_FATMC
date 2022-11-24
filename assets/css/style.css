@@ -1,7 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Commissioner:wght@300&display=swap');
+
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Commissioner, sans-serif;
     position: relative;
     margin: 0px;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+    background-color: #FFDB58;
+}
+
+footer > ul > li {
+    text-align: center;
+    list-style: none;
+}
+
+footer > p {
+    text-align: center;
+    text-transform: capitalize;
 }
 
 /*Homepage style rules*/
@@ -10,5 +29,36 @@ body {
     margin: 0px;
     height: 100vh;
     background: url(../images/sitephotos/Joe2019.jpg) no-repeat;
-    background-size: 115%;
+    background-size: 150%;
+    position: relative;
+    padding-top: 200px;
 }
+/*Logo and text*/
+
+h1, h2 {
+    font-family: Anton, sans-serif;
+}
+
+h1 {
+    color: #EFF3EB;
+}
+
+h2 {
+    color: #563D4D;
+}
+
+#logo {
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 140%;
+    text-transform: uppercase;
+    background-color: #FFDB58;
+    padding: 40px;
+    border-radius: 50%;
+    position: relative;
+    margin: auto;
+}
+
+/* nav */
