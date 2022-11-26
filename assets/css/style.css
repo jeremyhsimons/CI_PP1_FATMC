@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Commissioner:wght@300&display=swap');
 
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: Commissioner, sans-serif;
     position: relative;
@@ -11,6 +21,12 @@ body {
 footer {
     height: 150px;
     background-color: #FFDB58;
+    border-top: 30px solid #acb7bb;
+    overflow: hidden;
+}
+
+footer > ul {
+    padding-top: 10px;
 }
 
 footer > ul > li {
@@ -21,6 +37,12 @@ footer > ul > li {
 footer > p {
     text-align: center;
     text-transform: capitalize;
+    padding-top: 30px;
+    font-family: Anton, sans-serif;
+    letter-spacing: 8px;
+    font-size: 150%;
+    text-transform: uppercase;
+    color: #563D4D;
 }
 
 /*Homepage style rules*/
@@ -28,15 +50,18 @@ footer > p {
 #hero-image {
     margin: 0px;
     height: 100vh;
-    background: url(../images/sitephotos/Joe2019.jpg) no-repeat;
+    width: 100%;
+    background: url(../images/sitephotos/Joe2019v2.jpg) no-repeat;
     background-size: 150%;
-    position: relative;
-    padding-top: 200px;
+    background-attachment: fixed;
+    padding-top: 50px;
 }
 /*Logo and text*/
 
 h1, h2 {
     font-family: Anton, sans-serif;
+    letter-spacing: 8px;
+    font-weight: 100;
 }
 
 h1 {
@@ -48,17 +73,55 @@ h2 {
 }
 
 #logo {
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 200px;
     text-align: center;
-    letter-spacing: 4px;
+    font-weight: 100;
     font-size: 140%;
     text-transform: uppercase;
     background-color: #FFDB58;
     padding: 40px;
-    border-radius: 50%;
-    position: relative;
+    border-radius: 40%;
     margin: auto;
 }
 
+#quote-text {
+    letter-spacing: 4px;
+    color:#EFF3EB;
+    text-align: center;
+    margin-top: 75px;
+}
+
+#enter-site-button > a {
+    color: #FFDB58;
+    font-size: 250%;
+}
+
+#enter-site-button > a:hover{
+    color: #acb7bb;
+}
+
+#enter-site-button{
+    text-align: center;
+    margin-top: 75px;
+}
+
 /* nav */
+#nav-home{
+    background-color: #EFF3EB;
+}
+
+#grey-bar{
+    height: 20px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    background-color: #acb7bb;
+}
+
+.nav-home-card {
+    border: 3px solid #563D4D;
+    height: 200px;
+    width: 150px;
+    display: block;
+    margin: 10px;
+}
