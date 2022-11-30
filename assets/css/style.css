@@ -3,7 +3,7 @@
 *{
     margin: 0;
     padding: 0;
-    border: 0;
+    border: none;
 }
 
 html{
@@ -79,8 +79,8 @@ footer {
 h1, h2 {
     font-family: Anton, sans-serif;
     letter-spacing: 8px;
-    font-weight: 1000;
-    font-size: 160%;
+    font-weight: 100;
+    font-size: 150%;
     margin: auto;
 }
 
@@ -111,7 +111,7 @@ h2 {
     color: #563D4D;
     text-align: center;
     margin: auto;
-    margin-top: 2%;
+    margin-top: 5%;
     background-color: #acb7bbb3;
     width: 30%;
     min-width: 200px;
@@ -193,8 +193,8 @@ list-style: none;
 
 #nav-main {
     background-color: #EFF3EB;
-    padding-top: 10px;
-    height: 40vh;
+    padding: 10px 0px;
+    height: 30vh;
     position: relative;
 }
 
@@ -214,12 +214,12 @@ list-style: none;
 
 #nav-logo {
     width: 30%;
-    height: 100%;
+    height: 75%;
     max-width: 75px;
     max-height: 75px;
     background-color: #FFDB58;
     margin: 2%;
-    padding: 5%;
+    padding: 10px;
     border-radius: 5%;
     float: left;
 }
@@ -228,9 +228,9 @@ list-style: none;
     list-style: none;
     float: right;
     width: 60%;
+    height: 100%;
     text-align: right;
     margin-right: 2%;
-    margin-top: 30%;
 }
 
 #nav-menu > li > a {
@@ -249,9 +249,8 @@ list-style: none;
 
 #nav-main > hr {
     border: 1px solid #563D4D;
-    bottom: 0;
     width: 95%;
     margin: auto;
     margin-bottom: 0;
     background-color: #563D4D;
-}
+} 
