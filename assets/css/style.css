@@ -257,10 +257,26 @@ list-style: none;
 
 /*About Page*/
 
+#about-header {
+    background-color: #acb7bb;
+}
+
 #about-header > div {
 display: inline;
 width: 50%;
 height: 100px;
+}
+
+#about-body {
+    background-color: #EFF3EB;
+    padding: 10px;
+}
+
+#about-body > h3 {
+    text-align: center;
+    color: #563D4D;
+    font-family: Anton, sans-serif;
+    letter-spacing: 4px;
 }
 
 #about-body > hr {
@@ -268,3 +284,21 @@ height: 100px;
     background-color: #563D4D;
     margin: 0;
 }
+
+.about-bio {
+    font-size: 75%;
+    background-color: #BB4F78;
+}
+
+.about-bio-left > h3, p {
+ float: left;
+}
+
+.about-bio-right > h3, p {
+    float: right;
+   }
+
+.about-bio > h3 {
+    color: #EFF3EB;
+}
+
