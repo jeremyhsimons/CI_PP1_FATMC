@@ -21,7 +21,7 @@ body {
 footer {
     height: 150px;
     background-color: #FFDB58;
-    border-top: 30px solid #acb7bb;
+    border-top: 10px solid #acb7bb;
     overflow: hidden;
 }
 
@@ -50,8 +50,12 @@ footer > p {
     padding-top: 10px;
 }
 
-.social-links > li > a{
+.social-links > li > a {
     color: #563D4D;
+}
+
+.social-links > li > a:hover {
+    color: #BB4F78;
 }
 
 footer {
@@ -75,11 +79,14 @@ footer {
 h1, h2 {
     font-family: Anton, sans-serif;
     letter-spacing: 8px;
-    font-weight: 50;
+    font-weight: 1000;
+    font-size: 160%;
+    margin: auto;
 }
 
 h1 {
     color: #EFF3EB;
+
 }
 
 h2 {
@@ -87,22 +94,26 @@ h2 {
 }
 
 #logo {
-    height: 200px;
-    width: 200px;
+    height: 25%;
+    width: 50%;
+    max-width: 150px;
+    max-height: 150px;
     text-align: center;
-    font-size: 140%;
     text-transform: uppercase;
     background-color: #FFDB58;
-    padding: 40px;
+    padding: 7%;
     border-radius: 5%;
     margin: auto;
 }
 
 #quote-text {
     letter-spacing: 4px;
-    color:#BB4F78;
+    color: #563D4D;
     text-align: center;
-    margin-top: 100px;
+    margin: auto;
+    margin-top: 2%;
+    background-color: #acb7bbb3;
+    width: 30%;
 }
 
 #enter-site-button > a {
@@ -116,13 +127,13 @@ h2 {
 
 #enter-site-button{
     text-align: center;
-    margin-top: 100px;
+    margin-top: 5%;
 }
 
 /* nav */
 #nav-home{
     background-color: #EFF3EB;
-    height: 81vh;
+    height: 77vh;
     position: relative;
 
 }
@@ -140,38 +151,39 @@ list-style: none;
 }
 
 .nav-home-card-left {
-    border: 3px solid #563D4D;
-    border-radius: 10%;
-    height: 250px;
-    margin: 30px 10px;
-    width: 40%;
+    border: 2px solid #563D4D;
+    border-radius: 2%;
+    height: 30vh;
+    margin: 1%;
+    width: 45%;
     float: left;
     text-align: center;
     letter-spacing: 8px;
 }
 
 .nav-home-card-right {
-    border: 3px solid #563D4D;
-    border-radius: 10%;
-    height: 250px;
-    margin: 30px 10px;
-    width: 40%;
+    border: 2px solid #563D4D;
+    border-radius: 2%;
+    height: 30vh;
+    margin: 1%;
+    width: 45%;
     float: right;
     text-align: center;
     letter-spacing: 4px;
 }
 
+.nav-home-card-left:hover {
+    border-color: #BB4F78;
+}
+
+.nav-home-card-right:hover {
+    border-color: #BB4F78;
+}
+
 .nav-home-card-left > p {
-    margin-top: 117px;
+    margin: auto;
 }
 
 .nav-home-card-right > p {
-    margin-top: 117px;
-}
-
-#grey-bar{
-    height: 20px;
-    background-color: #acb7bb;
-    position: relative;
-    top: 96%;
+    margin: auto;
 }
