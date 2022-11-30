@@ -114,6 +114,7 @@ h2 {
     margin-top: 2%;
     background-color: #acb7bbb3;
     width: 30%;
+    min-width: 200px;
 }
 
 #enter-site-button > a {
