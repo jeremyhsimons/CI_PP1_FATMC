@@ -23,13 +23,18 @@ Forster and the Mustard Cutters is a Durham-based function band with lots of exp
 ## User Experience
 ### User Stories
 
-As a **website visitor** I want to:
+As a **first-time visitor** I want to:
 * Easily access information about the band so that I can decide if I want to book them for my event.
 * See pictures and access media of the band playing so that I can:
     1. See if the band are good at playing music.
     1. Decide if they are the right fit for my event.
 * Easily contact the band so that I can enquire about booking them for my event.
 * Have a pleasureable experience on the band's site so that I can feel confident in booking them.
+
+As a **frequent visitor** I want to:
+* Be able to return to view contact information so that I can make a repeat booking.
+* Easily access social media links so that I can keep up with new media uploads and posts about the band.
+* Easily share the band website or social links with my friends if I want to recommend them for my friend's event.
 
 As a **website owner** or **band member** I want to:
 * Have an attractive band website so that I can market my services as a musician to prospective clients and present our brand.
