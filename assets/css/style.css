@@ -188,3 +188,36 @@ list-style: none;
 .nav-home-card-right > p {
     margin: auto;
 }
+
+/* Navbar for all other pages */
+
+#nav-main {
+    background-color: #EFF3EB;
+    padding-top: 10px;
+}
+
+#nav-logo > h1 {
+    font-size: 100%;
+    margin: auto;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+#nav-logo > h2 {
+    font-size: 80%;
+    margin: auto;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+#nav-logo {
+    width: 30%;
+    height: 100%;
+    max-width: 75px;
+    max-height: 75px;
+    background-color: #FFDB58;
+    margin: 10px;
+    padding: 5%;
+    border-radius: 5%;
+    display: inline;
+}
