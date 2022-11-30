@@ -254,3 +254,17 @@ list-style: none;
     margin-bottom: 0;
     background-color: #563D4D;
 } 
+
+/*About Page*/
+
+#about-header > div {
+display: inline;
+width: 50%;
+height: 100px;
+}
+
+#about-body > hr {
+    border: 1px solid #563D4D;
+    background-color: #563D4D;
+    margin: 0;
+}
