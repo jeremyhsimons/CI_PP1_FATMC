@@ -45,6 +45,13 @@ footer > p {
 
 .social-links > li {
     display: inline;
+    margin: 15px;
+    font-size: 150%;
+    padding-top: 10px;
+}
+
+.social-links > li > a{
+    color: #563D4D;
 }
 
 footer {
@@ -57,6 +64,7 @@ footer {
     margin: 0px;
     height: 100vh;
     width: 100%;
+    background-color: #BB4F78;
     background: url(../images/sitephotos/Joe2019v2.jpg) no-repeat;
     background-size: 150%;
     background-attachment: fixed;
@@ -67,7 +75,7 @@ footer {
 h1, h2 {
     font-family: Anton, sans-serif;
     letter-spacing: 8px;
-    font-weight: 100;
+    font-weight: 50;
 }
 
 h1 {
@@ -82,7 +90,6 @@ h2 {
     height: 200px;
     width: 200px;
     text-align: center;
-    font-weight: 100;
     font-size: 140%;
     text-transform: uppercase;
     background-color: #FFDB58;
@@ -93,9 +100,9 @@ h2 {
 
 #quote-text {
     letter-spacing: 4px;
-    color:#EFF3EB;
+    color:#BB4F78;
     text-align: center;
-    margin-top: 75px;
+    margin-top: 100px;
 }
 
 #enter-site-button > a {
@@ -109,7 +116,7 @@ h2 {
 
 #enter-site-button{
     text-align: center;
-    margin-top: 75px;
+    margin-top: 100px;
 }
 
 /* nav */
@@ -122,6 +129,14 @@ h2 {
 
 #nav-home > ul{
 list-style: none;
+}
+
+.nav-home-card-left > p {
+    color: #563D4D;
+}
+
+.nav-home-card-right > p {
+    color: #563D4D;
 }
 
 .nav-home-card-left {
@@ -144,6 +159,14 @@ list-style: none;
     float: right;
     text-align: center;
     letter-spacing: 4px;
+}
+
+.nav-home-card-left > p {
+    margin-top: 117px;
+}
+
+.nav-home-card-right > p {
+    margin-top: 117px;
 }
 
 #grey-bar{
