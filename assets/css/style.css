@@ -386,4 +386,12 @@ height: 100px;
 
 #media-header {
     background-color: #EFF3EB;
+    text-align: center;
 }
+
+#media-section {
+    background-color: #EFF3EB;
+    color: #563D4D;
+    text-align: center;
+}
+
