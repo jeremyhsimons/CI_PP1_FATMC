@@ -81,7 +81,7 @@ footer {
     background: url(../images/sitephotos/Joe2019v2.jpg) no-repeat;
     background-size: 150%;
     background-attachment: fixed;
-    padding-top: 50px;
+    padding-top: 45px;
 }
 
 /*Logo and text*/
@@ -138,7 +138,7 @@ h2 {
 
 #enter-site-button{
     text-align: center;
-    margin-top: 5%;
+    margin-top: 4%;
 }
 
 /* nav for home page */
