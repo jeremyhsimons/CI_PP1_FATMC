@@ -1,3 +1,8 @@
+/*STYLE RULES FOR WHOLE WEBSITE*/
+
+
+
+
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Commissioner:wght@300&display=swap');
 
 *{
@@ -62,7 +67,11 @@ footer {
     text-align: center;
 }
 
-/*Homepage style rules*/
+
+
+/*STYLE RULES FOR HOME PAGE*/
+
+
 
 #hero-image {
     margin: 0px;
@@ -74,6 +83,7 @@ footer {
     background-attachment: fixed;
     padding-top: 50px;
 }
+
 /*Logo and text*/
 
 h1, h2 {
@@ -131,12 +141,12 @@ h2 {
     margin-top: 5%;
 }
 
-/* nav */
+/* nav for home page */
+
 #nav-home{
     background-color: #EFF3EB;
     height: 77vh;
     position: relative;
-
 }
 
 #nav-home > ul{
@@ -189,7 +199,12 @@ list-style: none;
     margin: auto;
 }
 
-/* Navbar for all other pages */
+
+
+/*STYLE RULES FOR ABOUT PAGE*/
+
+
+/* Navbar for about page and all other pages */
 
 #nav-main {
     background-color: #EFF3EB;
@@ -276,6 +291,11 @@ height: 100px;
 #about-body {
     background-color: #EFF3EB;
     padding: 30px 10px;
+}
+
+#whole-band-pic {
+    width: 100%;
+    margin-bottom: 30px;
 }
 
 #about-body > h3 {
