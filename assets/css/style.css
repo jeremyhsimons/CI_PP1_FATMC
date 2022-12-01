@@ -318,3 +318,27 @@ height: 100px;
     color: #EFF3EB;
 } 
 
+#book-now {
+    padding: 20px;
+    text-align: center;
+    font-weight: 400;
+    background-color: #EFF3EB;
+    padding-bottom: 50px;
+}
+
+#book-now > p > a > span {
+    margin: 0 10px;
+    padding: 10px;
+    background-color: #BB4F78;
+    color: #EFF3EB;
+    border-radius: 5%;
+}
+
+#book-now > p > a > span:hover {
+    color: #acb7bb;
+    background-color: #563D4D;
+}
+
+#book-now > p > a{
+    text-decoration: none;
+}
