@@ -120,7 +120,7 @@ h2 {
     color: #563D4D;
     text-align: center;
     margin: auto;
-    margin-top: 5%;
+    margin-top: 3%;
     background-color: #acb7bbb3;
     width: 30%;
     min-width: 200px;
@@ -387,11 +387,40 @@ height: 100px;
 #media-header {
     background-color: #EFF3EB;
     text-align: center;
+    padding: 50px 0px;
 }
 
 #media-section {
     background-color: #EFF3EB;
     color: #563D4D;
     text-align: center;
+    padding-bottom: 30px;
+}
+
+#media-section > p {
+    margin: 30px 10px;
+}
+
+#video-card {
+    height: 180px;
+    width: 90%;
+    background-color: #BB4F78;
+    margin: auto;
+    padding-top: 35px;
+    border-radius: 5%;
+}
+
+#soundcloud-card {
+    height: 300px;
+    width: 90%;
+    background-color: #BB4F78;
+    margin: auto;
+    padding-top: 40px;
+    border-radius: 5%;
+}
+
+#soundcloud-card > iframe {
+    width: 80%;
+    height: 80%;
 }
 
