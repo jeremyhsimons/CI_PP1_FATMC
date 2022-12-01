@@ -2,7 +2,6 @@
 
 
 
-
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Commissioner:wght@300&display=swap');
 
 *{
@@ -379,4 +378,12 @@ height: 100px;
 
 #book-now > p > a{
     text-decoration: none;
+}
+
+
+/*STYLE RULES FOR THE MEDIA PAGE*/
+
+
+#media-header {
+    background-color: #EFF3EB;
 }
