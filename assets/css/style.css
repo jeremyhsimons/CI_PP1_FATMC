@@ -237,10 +237,15 @@ list-style: none;
     text-decoration: none;
     list-style: none;
     color: #563D4D;
+    letter-spacing: 2px;
     font-size: 65%;
     font-family: Anton, sans-serif;
     text-transform: uppercase;
 }
+
+#nav-menu > li > a:hover {
+    color:#FFDB58;
+}    
 
 #nav-menu > li {
     display: inline;
@@ -259,6 +264,7 @@ list-style: none;
 
 #about-header {
     background-color: #acb7bb;
+    padding: 5px;
 }
 
 #about-header > div {
@@ -269,7 +275,7 @@ height: 100px;
 
 #about-body {
     background-color: #EFF3EB;
-    padding: 10px;
+    padding: 30px 10px;
 }
 
 #about-body > h3 {
@@ -288,17 +294,27 @@ height: 100px;
 .about-bio {
     font-size: 75%;
     background-color: #BB4F78;
+    height: 70px;
+    padding: 5px;
 }
 
-.about-bio-left > h3, p {
+.about-bio-left > h3 {
  float: left;
-}
+} 
 
-.about-bio-right > h3, p {
+.about-bio-left > p {
+    float: left;
+   } 
+
+.about-bio-right > h3 {
     float: right;
-   }
+   } 
+
+.about-bio-right > p {
+    float: right;
+   } 
 
 .about-bio > h3 {
     color: #EFF3EB;
-}
+} 
 
