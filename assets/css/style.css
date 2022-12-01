@@ -314,8 +314,13 @@ height: 100px;
 .about-bio {
     font-size: 75%;
     background-color: #BB4F78;
-    height: 70px;
+    height: 85px;
     padding: 5px;
+}
+
+.about-bio > p {
+    height: 35px;
+    width: 50%;
 }
 
 .about-bio-left > h3 {
@@ -324,7 +329,7 @@ height: 100px;
 
 .about-bio-left > p {
     float: left;
-   } 
+} 
 
 .about-bio-right > h3 {
     float: right;
