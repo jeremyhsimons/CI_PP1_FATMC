@@ -338,6 +338,19 @@ height: 100px;
     color: #EFF3EB;
 } 
 
+.bio-pic-left, .bio-pic-right {
+    max-width: 60px;
+    max-height: 60px;
+}
+
+.bio-pic-left {
+    float: left;
+}
+
+.bio-pic-right {
+    float: right;
+}
+
 #book-now {
     padding: 20px;
     text-align: center;
