@@ -1,7 +1,6 @@
 /*STYLE RULES FOR WHOLE WEBSITE*/
 
 
-
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Commissioner:wght@300&display=swap');
 
 *{
@@ -66,11 +65,7 @@ footer {
     text-align: center;
 }
 
-
-
 /*STYLE RULES FOR HOME PAGE*/
-
-
 
 #hero-image {
     margin: 0px;
@@ -83,7 +78,7 @@ footer {
     padding-top: 45px;
 }
 
-/*Logo and text*/
+/*Logo and logo's text*/
 
 h1, h2 {
     font-family: Anton, sans-serif;
@@ -95,7 +90,6 @@ h1, h2 {
 
 h1 {
     color: #EFF3EB;
-
 }
 
 h2 {
@@ -198,12 +192,9 @@ list-style: none;
     margin: auto;
 }
 
+/*STYLE RULES FOR 'ABOUT' PAGE*/
 
-
-/*STYLE RULES FOR ABOUT PAGE*/
-
-
-/* Navbar for about page and all other pages */
+/* Navbar for 'about' page and all other pages */
 
 #nav-main {
     background-color: #EFF3EB;
@@ -274,7 +265,7 @@ list-style: none;
     background-color: #563D4D;
 } 
 
-/*About Page*/
+/* About Page */
 
 #about-header {
     background-color: #acb7bb;
@@ -332,11 +323,11 @@ height: 100px;
 
 .about-bio-right > h3 {
     float: right;
-   } 
+} 
 
 .about-bio-right > p {
     float: right;
-   } 
+} 
 
 .about-bio > h3 {
     color: #EFF3EB;
@@ -380,9 +371,7 @@ height: 100px;
     text-decoration: none;
 }
 
-
 /*STYLE RULES FOR THE MEDIA PAGE*/
-
 
 #media-header {
     background-color: #EFF3EB;
@@ -424,3 +413,11 @@ height: 100px;
     height: 80%;
 }
 
+/* STYLE RULES FOR THE REVIEWS PAGE*/
+
+#reviews-header {
+    background-color: #EFF3EB;
+    text-align: center;
+    color: #563D4D;
+    padding: 30px;
+}
