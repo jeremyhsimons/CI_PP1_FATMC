@@ -421,3 +421,7 @@ height: 100px;
     color: #563D4D;
     padding: 30px;
 }
+
+#reviews-header > h3 {
+    font-size: 90%;
+}
