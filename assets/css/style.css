@@ -71,8 +71,7 @@ footer {
     margin: 0px;
     height: 100vh;
     width: 100%;
-    background-color: #BB4F78;
-    background: url(../images/sitephotos/Joe2019v2.jpg) no-repeat center center;
+    background: url(../images/sitephotos/Joe2019v2.jpg) no-repeat center center, #BB4F78;
     background-size: 100%;
     background-attachment: fixed;
     padding-top: 45px;
