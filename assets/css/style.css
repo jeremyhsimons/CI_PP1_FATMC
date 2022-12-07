@@ -529,10 +529,17 @@ line-height: 40px;
 
 /*Contact form*/
 
+#contact-background {
+    background-color: #BB4F78;
+}
+
 #contact-form {
     background-color: #EFF3EB;
     padding: 10%;
     font-family: Commissioner, sans-serif;
+    border: 1px solid #563D4D;
+    max-width: 300px;
+    margin: auto;
 }
 
 label {
@@ -542,6 +549,7 @@ label {
 input, textarea {
     margin: 10px 5px;
     font-family: Commissioner, sans-serif;
+    padding: 10px;
 }
 
 #submit {
