@@ -22,7 +22,7 @@ body {
 /* footer styling */
 
 footer {
-    height: 140px;
+    height: 23vh;
     background-color: #FFDB58;
     border-top: 10px solid #acb7bb;
     overflow: hidden;
@@ -58,7 +58,7 @@ footer > p {
 }
 
 .social-links > li > a:hover {
-    color: #BB4F78;
+    color: #EFF3EB;
 }
 
 footer {
@@ -115,6 +115,7 @@ h2 {
     margin: auto;
     margin-top: 3%;
     background-color: #acb7bb;
+    padding: 7px;
     width: 30%;
     min-width: 200px;
 }
@@ -125,7 +126,7 @@ h2 {
 }
 
 #enter-site-button > a:hover{
-    color: #acb7bb;
+    color: #BB4F78;
 }
 
 #enter-site-button{
@@ -176,11 +177,11 @@ list-style: none;
 }
 
 .nav-home-card-left:hover {
-    border-color: #BB4F78;
+    border-color: #FFDB58;
 }
 
 .nav-home-card-right:hover {
-    border-color: #BB4F78;
+    border-color: #FFDB58;
 }
 
 .nav-home-card-left > p {
