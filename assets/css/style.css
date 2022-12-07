@@ -537,7 +537,6 @@ line-height: 40px;
 #contact-form {
     background-color: #EFF3EB;
     padding: 10%;
-    font-family: Commissioner, sans-serif;
     border: 1px solid #563D4D;
     max-width: 300px;
     margin: auto;
@@ -550,7 +549,10 @@ label {
 input, textarea {
     margin: 10px 5px;
     font-family: Commissioner, sans-serif;
+    font-weight: 600;
+    color: #563D4D;
     padding: 10px;
+    background-color: #FFDB58;
 }
 
 #submit {
