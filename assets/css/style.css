@@ -532,14 +532,16 @@ line-height: 40px;
 #contact-form {
     background-color: #EFF3EB;
     padding: 10%;
+    font-family: Commissioner, sans-serif;
 }
 
 label {
     margin: 10px 5px;
 }
 
-input {
+input, textarea {
     margin: 10px 5px;
+    font-family: Commissioner, sans-serif;
 }
 
 /*Thanks page*/
