@@ -528,3 +528,23 @@ line-height: 40px;
 } */
 
 /*Contact form*/
+
+/*thanks page*/
+
+#thanks-message {
+    background-color: #EFF3EB;
+    padding: 10%;
+}
+
+#thanks-message > h1 {
+    background-color: #FFDB58;
+    border-radius: 2%;
+    text-align: center;
+    font-size: 200%;
+}
+
+#thanks-message > p {
+    text-align: center;
+    font-size: 120%;
+    padding-top: 10%;
+}
