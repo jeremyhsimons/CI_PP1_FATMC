@@ -22,7 +22,7 @@ body {
 /* footer styling */
 
 footer {
-    height: 150px;
+    height: 140px;
     background-color: #FFDB58;
     border-top: 10px solid #acb7bb;
     overflow: hidden;
@@ -470,4 +470,34 @@ line-height: 40px;
     position: absolute;
     bottom: 20px;
     right: 10px;
+}
+
+/*STYLE RULES FOR CONTACT PAGE*/
+
+/*Header*/
+
+#contact-header {
+    min-height:  340px;;
+    background-color: #EFF3EB;
+}
+
+#contact-header-title {
+    float: right;
+    max-width: 30%;
+    max-height: 300px;
+    padding-top: 20px;
+    padding-right: 20%;
+}
+
+#contact-header-image {
+    float: left;
+    width: 30%;
+    padding-top: 20px;
+    padding-left: 20%;
+}
+
+#contact-header-image > img {
+    width: 50%;
+    float: right;
+    padding-right: 10%;
 }
