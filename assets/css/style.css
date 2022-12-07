@@ -529,7 +529,20 @@ line-height: 40px;
 
 /*Contact form*/
 
-/*thanks page*/
+#contact-form {
+    background-color: #EFF3EB;
+    padding: 10%;
+}
+
+label {
+    margin: 10px 5px;
+}
+
+input {
+    margin: 10px 5px;
+}
+
+/*Thanks page*/
 
 #thanks-message {
     background-color: #EFF3EB;
