@@ -544,6 +544,21 @@ input, textarea {
     font-family: Commissioner, sans-serif;
 }
 
+#submit {
+    background-color: #BB4F78;
+    padding: 10px;
+    border-radius: 5%;
+    color: #EFF3EB;
+    font-size: 150%;
+}
+
+#submit:hover {
+    background-color: #563D4D;
+    color: #FFDB58;
+}
+
+
+
 /*Thanks page*/
 
 #thanks-message {
