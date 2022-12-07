@@ -479,9 +479,10 @@ line-height: 40px;
 #contact-header {
     min-height:  340px;;
     background-color: #EFF3EB;
+    border-bottom: 20px solid #acb7bb;
 }
 
-#contact-header-title {
+/*#contact-header-title {
     float: right;
     max-width: 30%;
     max-height: 300px;
@@ -500,4 +501,6 @@ line-height: 40px;
     width: 50%;
     float: right;
     padding-right: 10%;
-}
+} */
+
+/*Contact form*/
