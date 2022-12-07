@@ -549,7 +549,7 @@ input, textarea {
     padding: 10px;
     border-radius: 5%;
     color: #EFF3EB;
-    font-size: 150%;
+    font-size: 120%;
 }
 
 #submit:hover {
@@ -557,7 +557,18 @@ input, textarea {
     color: #FFDB58;
 }
 
+#reset {
+    background-color: #563D4D;
+    padding: 10px;
+    border-radius: 5%;
+    color: #FFDB58;
+    font-size: 120%;
+}
 
+#reset:hover {
+    background-color: #BB4F78;
+    color: #EFF3EB;
+}
 
 /*Thanks page*/
 
