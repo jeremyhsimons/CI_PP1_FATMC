@@ -68,3 +68,9 @@ HTML, CSS
 ## Testing
 
 ## Credits
+* Thanks to my Mentor Mo Shami for his advice and encouragement throughout this project.
+### 3rd party code used
+* The embedded soundcloud player was copied from Soundcloud.com (https://soundcloud.com/andrew-silk-743237145/isnt-she-lovely). 
+    - I clicked on the 'share' button underneath the player.
+    - I clicked on the 'embed' tab.
+    - I copy/pasted the iframe element provided and pasted into my own code.
