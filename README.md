@@ -70,7 +70,22 @@ HTML, CSS
 ## Credits
 * Thanks to my Mentor Mo Shami for his advice and encouragement throughout this project.
 ### 3rd party code used
+* Google Fonts.
+* Fontawesome Characters.
 * The embedded soundcloud player was copied from Soundcloud.com (https://soundcloud.com/andrew-silk-743237145/isnt-she-lovely). 
     - I clicked on the 'share' button underneath the player.
+        <img src="assets/images/readmescreenshots/Screenshot 2022-12-07 120245 CI_PP1_FATMC.png" alt="A screenshot of the soundclound web player with the share button highlighted.">
     - I clicked on the 'embed' tab.
+
+        <img src="assets/images/readmescreenshots/Screenshot 2022-12-07 120354 CI_PP1_FATMC img 2.png" alt="A screenshot of the soundclound share modal with the embed tab highlighted.">
+
     - I copy/pasted the iframe element provided and pasted into my own code.
+
+        <img src="assets/images/readmescreenshots/Screenshot 2022-12-07 120452 CI_PP1_FATMC img 3.png" alt="A screenshot of the soundclound share modal with the iframe code snippet highlighted.">
+
+
+
+
+### Media
+* Most images were sourced from the band's facebook page with permission from the page owner. Some were sent to me directly by band members (again with their permission) via private messaging on WhatsApp.
+* The video which appears in the media page was also sent to me directly by one of the band members and is used on this site with permission.
