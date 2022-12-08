@@ -652,8 +652,50 @@ h1, h2 {
     margin-top: 20px;
 }
 
-#about-bio {
-    max-width: ;
+.about-bio, #about-body > hr {
+    max-width: 590px;
+    margin: auto;
+}
+
+.about-bio {
+    height: 150px;
+    padding-top: 20px;
+}
+
+
+.bio-text {
+    text-align: right;
+    font-size: 130%;
+}
+
+.about-bio-right {
+    text-align: left;
+}
+
+.bio-pic {
+    float: left;
+    margin-left: 5px;
+    max-height: 130px;
+}
+
+.about-bio > .bio-pic > img {
+    max-height: 130px;
+}
+
+.about-bio-left.bio-pic {
+    height: 130px;
+}
+
+.about-bio-left.bio-pic {
+    margin-left: 80px;
+}
+
+#bio-pic2 {
+    margin-left: 140px;
+}
+
+#bio-pic5 {
+    margin-left: 180px;
 }
 
 /* media */
