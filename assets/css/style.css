@@ -139,7 +139,8 @@ h2 {
 #nav-home{
     background-color: #EFF3EB;
     height: 77vh;
-    position: relative;
+    width: 100%;
+    padding-top: 5%;
 }
 
 #nav-home > ul{
@@ -151,28 +152,25 @@ list-style: none;
     background-color: #acb7bb;
     font-weight: 400;
     padding: 2%;
+    border-bottom: 1px solid #BB4F78;
 }
 
-.nav-home-card-left {
+.nav-home-card-left, .nav-home-card-right {
     border: 2px solid #563D4D;
     border-radius: 2%;
     height: 30vh;
     margin: 1%;
     width: 45%;
-    float: left;
     text-align: center;
     letter-spacing: 8px;
 }
 
+.nav-home-card-left {
+    float: left;
+}
+
 .nav-home-card-right {
-    border: 2px solid #563D4D;
-    border-radius: 2%;
-    height: 30vh;
-    margin: 1%;
-    width: 45%;
     float: right;
-    text-align: center;
-    letter-spacing: 4px;
 }
 
 .nav-home-card-left:hover, .nav-home-card-right:hover {
@@ -185,25 +183,25 @@ list-style: none;
 
 #card1 {
     background: url(../images/sitephotos/wholebandjuneball2019.jpg) no-repeat bottom center #BB4F78;
-    background-size: 200%;
+    background-size: 280%;
     overflow: hidden;
 }
 
 #card2 {
     background: url(../images/sitephotos/Juneball2019lensflare.jpg) no-repeat bottom center #BB4F78;
-    background-size: 200%;
+    background-size: 280%;
     overflow: hidden;
 }
 
 #card3 {
     background: url(../images/sitephotos/brasssection2019.jpg) no-repeat top center #BB4F78;
-    background-size: 100%;
+    background-size: 150%;
     overflow: hidden;
 }
 
 #card4 {
     background: url(../images/sitephotos/Human2018background_1.jpg) no-repeat center center #BB4F78;
-    background-size: 200%;
+    background-size: 300%;
     overflow: hidden;
 }
 
