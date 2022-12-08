@@ -637,6 +637,24 @@ h1, h2 {
 }
 
 /* about */
+#about-header {
+    text-align: center;
+}
+
+#about-header > p {
+    margin: auto;
+    max-width: 540px;
+    padding-top: 20px;
+}
+
+#about-header > img {
+    max-width: 540px;
+    margin-top: 20px;
+}
+
+#about-bio {
+    max-width: ;
+}
 
 /* media */
 
@@ -712,7 +730,4 @@ h1, h2 {
     .nav-home-card-left, .nav-home-card-right {
         width: 280px;
     }
-
-    /*#card1, #card2, #card3, #card4 {
-    }*/
 }
