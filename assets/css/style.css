@@ -308,7 +308,29 @@ height: 100px;
     padding: 5px;
 }
 
-.about-bio > p {
+.bio-text {
+    color: #EFF3EB;
+}
+
+.bio-pic {
+    max-height: 85px;
+}
+
+.bio-pic > img {
+    max-height: 85px;
+}
+
+.about-bio-left {
+    float: left;
+    max-width: 50%;
+}
+
+.about-bio-right {
+    float: right;
+    max-width: 50%;
+}
+
+/*.about-bio > p {
     height: 35px;
     width: 50%;
 }
@@ -344,7 +366,7 @@ height: 100px;
 
 .bio-pic-right {
     float: right;
-}
+} */
 
 #book-now {
     padding: 20px;
