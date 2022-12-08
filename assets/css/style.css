@@ -175,19 +175,11 @@ list-style: none;
     letter-spacing: 4px;
 }
 
-.nav-home-card-left:hover {
+.nav-home-card-left:hover, .nav-home-card-right:hover {
     border-color: #FFDB58;
 }
 
-.nav-home-card-right:hover {
-    border-color: #FFDB58;
-}
-
-.nav-home-card-left > p {
-    margin: auto;
-}
-
-.nav-home-card-right > p {
+.nav-home-card-left > p, .nav-home-card-right > p {
     margin: auto;
 }
 
@@ -199,6 +191,18 @@ list-style: none;
 
 #card2 {
     background: url(../images/sitephotos/Juneball2019lensflare.jpg) no-repeat bottom center #BB4F78;
+    background-size: 200%;
+    overflow: hidden;
+}
+
+#card3 {
+    background: url(../images/sitephotos/brasssection2019.jpg) no-repeat top center #BB4F78;
+    background-size: 100%;
+    overflow: hidden;
+}
+
+#card4 {
+    background: url(../images/sitephotos/Human2018background_1.jpg) no-repeat center center #BB4F78;
     background-size: 200%;
     overflow: hidden;
 }
