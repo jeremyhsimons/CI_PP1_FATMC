@@ -694,22 +694,23 @@ h1, h2 {
 @media screen and (min-width: 1200px) {
 
     #nav-home {
-        height: 77vh;
+        height: 50vh;
+        padding-top: 30px;
     }
 
     #nav-home > ul {
         width: 100%;
         margin: auto;
+        text-align: center;
     }
 
     #nav-home > ul > li {
         display: inline-block;
-
+        padding: 10px;
     }
 
     .nav-home-card-left, .nav-home-card-right {
         width: 280px;
-        margin: 100px;
     }
 
     /*#card1, #card2, #card3, #card4 {
