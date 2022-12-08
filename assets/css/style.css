@@ -148,10 +148,15 @@ list-style: none;
 
 .nav-home-card-left > p {
     color: #563D4D;
+    background-color: #acb7bb;
+    font-weight: 400;
+    padding: 2%;
 }
 
 .nav-home-card-right > p {
     color: #563D4D;
+    background-color: #acb7bb;
+    font-weight: 400;
 }
 
 .nav-home-card-left {
@@ -190,6 +195,18 @@ list-style: none;
 
 .nav-home-card-right > p {
     margin: auto;
+}
+
+#card1 {
+    background: url(../images/sitephotos/wholebandjuneball2019.jpg) no-repeat bottom center #BB4F78;
+    background-size: 200%;
+    overflow: hidden;
+}
+
+#card2 {
+    background: url(../images/sitephotos/Juneball2019lensflare.jpg) no-repeat bottom center #BB4F78;
+    background-size: 200%;
+    overflow: hidden;
 }
 
 /*STYLE RULES FOR 'ABOUT' PAGE*/
