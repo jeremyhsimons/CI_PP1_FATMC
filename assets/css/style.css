@@ -690,3 +690,28 @@ h1, h2 {
         margin-bottom: 30px;
     }
 }
+
+@media screen and (min-width: 1200px) {
+
+    #nav-home {
+        height: 77vh;
+    }
+
+    #nav-home > ul {
+        width: 100%;
+        margin: auto;
+    }
+
+    #nav-home > ul > li {
+        display: inline-block;
+
+    }
+
+    .nav-home-card-left, .nav-home-card-right {
+        width: 280px;
+        margin: 100px;
+    }
+
+    /*#card1, #card2, #card3, #card4 {
+    }*/
+}
