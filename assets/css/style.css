@@ -123,6 +123,9 @@ h2 {
 #enter-site-button > a {
     color: #FFDB58;
     font-size: 250%;
+    background-color: #563D4D;
+    padding: 0px 7px;
+    border-radius: 5%;
 }
 
 #enter-site-button > a:hover{
@@ -524,27 +527,6 @@ list-style: none;
     max-height: 280px;
 }
 
-/*#contact-header-title {
-    float: right;
-    max-width: 30%;
-    max-height: 300px;
-    padding-top: 20px;
-    padding-right: 20%;
-}
-
-#contact-header-image {
-    float: left;
-    width: 30%;
-    padding-top: 20px;
-    padding-left: 20%;
-}
-
-#contact-header-image > img {
-    width: 50%;
-    float: right;
-    padding-right: 10%;
-} */
-
 /*Contact form*/
 
 #contact-background {
@@ -620,5 +602,91 @@ input, textarea {
 
 /* MEDIA QUERIES */
 
-/* Rules for tablets and larger */
+/* Rules for screens with a width between 600px and 950px */
 
+@media screen and (min-width: 600px) {
+/* home */
+#hero-image {
+    margin: 0px;
+    height: 100vh;
+    width: 100%;
+    background: url(../images/sitephotos/Human2018background_2.jpg) no-repeat center center, #BB4F78;
+    background-size: 100%;
+    background-attachment: fixed;
+    padding-top: 45px;
+}
+
+h1, h2 {
+    font-size: 180%;
+}
+
+#card1 {
+    background-size: 170%;
+}
+
+#card2 {
+    background-size: 170%;
+}
+
+#card3 {
+    background-size: 80%;
+}
+
+#card4 {
+    background-size: 150%;
+}
+
+/* about */
+
+/* media */
+
+/* reviews */
+
+/* contact */
+#contact-header-title {
+    float: right;
+    max-width: 40%;
+    max-height: 300px;
+    padding-top: 20px;
+    padding-right: 10%;
+    font-size: 145%;
+}
+
+#contact-header-image {
+    float: left;
+    width: 35%;
+    padding-top: 20px;
+    padding-left: 15%;
+    padding-bottom: 5%;
+}
+
+#contact-header-image > img {
+    width: 60%;
+    float: right;
+    padding-right: 10%;
+} 
+
+#contact-form {
+    padding: 2%;
+}
+}
+
+/* Rules for homepage nav on a tablet */
+
+@media screen and (min-width: 700px) {
+    #nav-home{
+        height: 140vh;
+    }
+
+    .nav-home-card-left, .nav-home-card-right {
+        max-width: 300px;
+        margin: auto;
+    }
+
+    #card1, #card2, #card3, #card4 {
+        display: block;
+        float: none;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+}
