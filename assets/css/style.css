@@ -229,6 +229,10 @@ list-style: none;
     float: left;
 }
 
+#nav-logo:hover {
+    border: 4px solid #BB4F78;
+}
+
 #nav-menu {
     list-style: none;
     float: right;
