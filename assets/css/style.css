@@ -146,17 +146,11 @@ h2 {
 list-style: none;
 }
 
-.nav-home-card-left > p {
+.nav-home-card-left > p, .nav-home-card-right > p{
     color: #563D4D;
     background-color: #acb7bb;
     font-weight: 400;
     padding: 2%;
-}
-
-.nav-home-card-right > p {
-    color: #563D4D;
-    background-color: #acb7bb;
-    font-weight: 400;
 }
 
 .nav-home-card-left {
