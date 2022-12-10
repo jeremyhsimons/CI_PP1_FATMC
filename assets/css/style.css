@@ -168,7 +168,7 @@ list-style: none;
 
 .nav-home-card-left > p, .nav-home-card-right > p{
     color: #563D4D;
-    background-color: #acb7bb;
+    background-color: #EFF3EB;
     font-weight: 400;
     padding: 2%;
     border-bottom: 1px solid #BB4F78;
@@ -198,6 +198,11 @@ list-style: none;
 
 .nav-home-card-left > p, .nav-home-card-right > p {
     margin: auto;
+}
+
+#card1, #card2, #card3, #card4 {
+    overflow: hidden;
+    margin-top: 20px;
 }
 
 #card1 {
@@ -640,11 +645,12 @@ h1, h2 {
     font-size: 180%;
 }
 
-#card1 {
-    background-size: 170%;
+.nav-home-card-left > p, .nav-home-card-right > p {
+    font-size: 120%;
+    font-weight: 500;
 }
 
-#card2 {
+#card1, #card2 {
     background-size: 170%;
 }
 
@@ -682,7 +688,6 @@ h1, h2 {
     padding-top: 20px;
 }
 
-
 .bio-text {
     text-align: right;
     font-size: 130%;
@@ -717,6 +722,8 @@ h1, h2 {
 #bio-pic5 {
     margin-left: 180px;
 }
+
+/* navbar and logo - all pages except homepage*/
 
 #nav-main {
     height: 200px;
