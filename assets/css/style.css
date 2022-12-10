@@ -700,8 +700,6 @@ h1, h2 {
 
 /* media */
 
-/* reviews */
-
 /* contact */
 #contact-header-title {
     float: right;
@@ -748,6 +746,10 @@ h1, h2 {
         float: none;
         margin: auto;
         margin-bottom: 30px;
+    }
+
+    #nav-home > ul > li > a {
+        text-decoration: none;
     }
 }
 
