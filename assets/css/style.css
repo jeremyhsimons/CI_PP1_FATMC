@@ -821,6 +821,58 @@ h1, h2 {
     }
 }
 
+/* Rules for home page on screens of width 800px and above */
+
+@media screen and (min-width: 800px) {
+    #hero-image {
+        background-size: 800px;
+    }
+}
+
+@media screen and (min-width: 950px) {
+    
+/* nav bar for all pages excluding homepage. */
+
+    #nav-menu {
+        position: absolute;
+        top: 150px;
+        right: 10px;
+    }
+
+    #nav-menu > li > a {
+        font-size: 115%;
+    }
+
+/* Book now section */
+
+    #book-now {
+        font-size: 120%;
+    }
+
+/* Media */
+
+    #media-section > p {
+        font-size: 140%;
+        max-width: 800px;
+    }
+
+/* Reviews */
+    
+    #reviews-header {
+        font-size: 150%;
+    }
+
+    .reviews-section > div > p {
+        font-size: 120%;
+    }
+
+    .reviews-section > div {
+        width: 350px;
+        height: 140px;
+    }
+
+}
+
 @media screen and (min-width: 1200px) {
 
     #nav-home {
