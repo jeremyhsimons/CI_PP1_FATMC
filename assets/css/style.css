@@ -839,6 +839,12 @@ h1, h2 {
         right: 10px;
     }
 
+/* footer for all pages */
+
+    footer {
+        padding-top: 50px;
+    }
+
     #nav-menu > li > a {
         font-size: 115%;
     }
