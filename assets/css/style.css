@@ -698,6 +698,23 @@ h1, h2 {
     margin-left: 180px;
 }
 
+#nav-menu > li > a {
+    font-size: 100%;
+}
+
+#nav-logo {
+    max-width: 115px;
+    max-height: 115px;
+}
+
+#nav-logo > h1 {
+    font-size: 120%;
+}
+
+#nav-logo > h2 {
+    font-size: 100%;
+}
+
 /* media */
 
 /* contact */
