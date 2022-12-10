@@ -446,6 +446,14 @@ list-style: none;
     border-radius: 2%;
 }
 
+#soundcloud-section {
+    width: 100%;
+    background-color: #563D4D;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    color: #EFF3EB;
+}
+
 #soundcloud-card {
     height: 300px;
     width: 90%;
@@ -759,7 +767,7 @@ h1, h2 {
 
 /* media */
 
-#media-section > p {
+#media-section > p, #soundcloud-section > p {
     font-size: 110%;
     font-weight: 450;
     max-width: 500px;
@@ -880,7 +888,7 @@ h1, h2 {
         font-size: 250%;
     }
 
-    #media-section > p {
+    #media-section > p, #soundcloud-section > p {
         font-size: 140%;
         max-width: 800px;
     }
