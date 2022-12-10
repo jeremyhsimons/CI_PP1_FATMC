@@ -215,7 +215,7 @@ list-style: none;
 #nav-main {
     background-color: #EFF3EB;
     padding: 10px 0px;
-    height: 30vh;
+    height: 150px;
     position: relative;
 }
 
@@ -256,6 +256,9 @@ list-style: none;
     height: 100%;
     text-align: right;
     margin-right: 2%;
+    position: absolute;
+    top: 100px;
+    right: 10px;
 }
 
 #nav-menu > li > a {
@@ -699,8 +702,18 @@ h1, h2 {
     margin-left: 180px;
 }
 
+#nav-main {
+    height: 200px;
+}
+
 #nav-menu > li > a {
     font-size: 100%;
+}
+
+#nav-menu {
+    position: absolute;
+    top: 130px;
+    right: 10px;
 }
 
 #nav-logo {
