@@ -911,6 +911,7 @@ h1, h2 {
     #contact-header-image > img {
         max-width: 200px;
     }
+}
 
 @media screen and (min-width: 1200px) {
 
