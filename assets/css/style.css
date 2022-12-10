@@ -120,22 +120,38 @@ h2 {
     min-width: 200px;
 }
 
+#enter-site-button{
+    margin: auto;  
+    margin-top: 4%;
+    font-size: 70%;
+    background-color: #563D4D;
+    width: 120px;
+    padding-left: 10px;
+}
+
 #enter-site-button > a {
     color: #FFDB58;
     font-size: 250%;
     background-color: #563D4D;
-    padding: 0px 7px;
     border-radius: 5%;
+    text-decoration: none;
+    margin: auto;
+    width: 120px;
 }
 
 #enter-site-button > a:hover{
     color: #BB4F78;
+    background-color: #FFDB58;
 }
 
-#enter-site-button{
-    text-align: center;
-    margin-top: 4%;
+#enter-site-button > a > p {
+    font-size: 70%;
 }
+
+#enter-site-button > a > p , #enter-site-button > a > i {
+    display: inline;
+}
+
 
 /* home page nav section */
 
