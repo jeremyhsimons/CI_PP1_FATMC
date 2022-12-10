@@ -735,7 +735,7 @@ h1, h2 {
 
 @media screen and (min-width: 700px) {
     #nav-home{
-        height: 140vh;
+        height: 150vh;
     }
 
     .nav-home-card-left, .nav-home-card-right {
