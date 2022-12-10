@@ -839,6 +839,10 @@ h1, h2 {
         right: 10px;
     }
 
+    #nav-main > hr {
+        border: #EFF3EB;
+    }
+
 /* footer for all pages */
 
     footer {
@@ -855,7 +859,17 @@ h1, h2 {
         font-size: 120%;
     }
 
+/* About */
+
+    #about-header > h2 {
+        font-size: 250%;
+    }
+
 /* Media */
+
+    #media-header > h2 {
+        font-size: 250%;
+    }
 
     #media-section > p {
         font-size: 140%;
@@ -877,7 +891,26 @@ h1, h2 {
         height: 140px;
     }
 
-}
+/* Contact */
+
+    #contact-header-title {
+        background-color: #acb7bb;
+        padding-bottom: 20px;
+        padding-left: 20px;
+    }
+
+    #contact-header-title > h2 {
+        font-size: 150%;
+        padding-right: 0%;
+    }
+
+    #contact-header-image {
+        width: 30%;
+    }
+
+    #contact-header-image > img {
+        max-width: 200px;
+    }
 
 @media screen and (min-width: 1200px) {
 
