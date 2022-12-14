@@ -603,16 +603,16 @@ input, textarea {
 }
 
 #reset {
-    background-color: #563D4D;
+    background-color: #BB4F78;
     padding: 10px;
     border-radius: 5%;
-    color: #FFDB58;
+    color: #EFF3EB;
     font-size: 120%;
 }
 
 #reset:hover {
-    background-color: #BB4F78;
-    color: #EFF3EB;
+    background-color: #563D4D;
+    color: #FFDB58;
 }
 
 /*Thanks page*/
