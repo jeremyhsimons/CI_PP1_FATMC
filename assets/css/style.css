@@ -837,6 +837,14 @@ h1, h2 {
     #nav-home > ul > li > a {
         text-decoration: none;
     }
+
+    #hero-image {
+        min-height: 700px;
+    }
+
+    #nav-home {
+        padding-bottom: 50px;
+    }
 }
 
 /* Rules for home page on screens of width 800px and above */
@@ -964,5 +972,9 @@ h1, h2 {
 
     #card3 {
         background-size: 160%;
+    }
+
+    #hero-image {
+        min-height: 800px;
     }
 }
