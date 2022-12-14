@@ -768,17 +768,12 @@ input, textarea {
     max-height: 115px;
 }
 
-#logo-text-container{
-    text-align: center;
-    width: 200px;
+#nav-logo > h1 {
+    font-size: 150%;
 }
 
-#logo-text-container > h1 {
-    font-size: 250%;
-}
-
-#logo {
-    padding: 7% 7% 10% 7%;
+#nav-logo > h2 {
+    font-size: 100%;
 }
 
 /* media */
