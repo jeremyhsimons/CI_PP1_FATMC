@@ -946,6 +946,7 @@ input, textarea {
 
     #contact-header-image {
         width: 30%;
+        padding-top: 0px;
     }
 
     #contact-header-image > img {
