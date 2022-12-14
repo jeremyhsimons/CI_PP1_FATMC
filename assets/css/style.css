@@ -126,24 +126,27 @@ h1, h2 {
     margin: auto;  
     margin-top: 4%;
     font-size: 70%;
-    width: 180px;
-    padding-left: 10px;
+    width: 280px;
+    text-align: center;
 }
 
 #enter-site-button > a {
-    color: #FFDB58;
-    font-size: 250%;
+    color: #EFF3EB;
+    font-size: 400%;
+    font-family: Anton, sans-serif;
+    letter-spacing: 6px;
     background-color: #BB4F78;
     border-radius: 2%;
     text-decoration: none;
-    margin-left: 10%;
-    width: 140px;
+    text-transform: uppercase;
+    width: 300px;
     padding: 5px 10px;
+    text-align: center;
 }
 
 #enter-site-button > a:hover{
-    color: #BB4F78;
-    background-color: #FFDB58;
+    color: #FFDB58;
+    background-color: #563D4D;
 }
 
 #enter-site-button > a > p {
