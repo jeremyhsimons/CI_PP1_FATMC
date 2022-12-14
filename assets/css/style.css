@@ -621,7 +621,7 @@ input, textarea {
     padding: 10%;
 }
 
-#thanks-message > h1 {
+#thanks-message > h2{
     background-color: #FFDB58;
     border-radius: 2%;
     text-align: center;
