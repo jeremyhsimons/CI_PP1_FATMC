@@ -82,6 +82,8 @@ HTML, CSS
     - I copy/pasted the iframe element provided and pasted into my own code.
 
         <img src="assets/images/readmescreenshots/Screenshot 2022-12-07 120452 CI_PP1_FATMC img 3.png" alt="A screenshot of the soundclound share modal with the iframe code snippet highlighted.">
+    
+    - I deleted the allow="autoplay" attribute in the iframe element, and added aria labels to the extra soundcloud links that appear in the code.
 
 
 
