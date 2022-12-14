@@ -976,5 +976,6 @@ h1, h2 {
 
     #hero-image {
         min-height: 800px;
+        color: #563D4D;
     }
 }
