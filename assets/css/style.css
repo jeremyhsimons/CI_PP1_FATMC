@@ -547,7 +547,6 @@ list-style: none;
     width: 90%;
     margin: auto;
     min-height: 150vh;
-    border-bottom: 5px solid #FFDB58;
 }
 
 #reviews-main {
@@ -593,6 +592,10 @@ list-style: none;
     position: absolute;
     bottom: 20px;
     right: 10px;
+}
+
+.review-book-section {
+    border-top: 5px solid #FFDB58;
 }
 
 /*STYLE RULES FOR CONTACT PAGE*/
