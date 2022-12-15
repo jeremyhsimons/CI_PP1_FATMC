@@ -644,7 +644,7 @@ list-style: none;
 /*Contact form*/
 
 #contact-background {
-    background-color: #BB4F78;
+    background-color: #acb7bb;
 }
 
 #contact-form {
@@ -892,7 +892,14 @@ input, textarea {
         max-height: 300px;
         padding-top: 20px;
         padding-right: 10%;
+    }
+
+    #contact-header-title > h2 {
         font-size: 145%;
+    }
+
+    #contact-header-title > p {
+        font-size: 120%;
     }
 
     #contact-header-image {
@@ -1090,14 +1097,18 @@ input, textarea {
 /* Contact */
 
     #contact-header-title {
-        background-color: #acb7bb;
+        background-color: #BB4F78;
         padding-bottom: 20px;
         padding-left: 20px;
     }
 
     #contact-header-title > h2 {
-        font-size: 150%;
+        font-size: 165%;
         padding-right: 0%;
+    }
+
+    #contact-header-title > p {
+        font-size: 135%;
     }
 
     #contact-header-image {
