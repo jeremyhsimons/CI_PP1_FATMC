@@ -550,7 +550,9 @@ list-style: none;
 }
 
 #reviews-main {
-    background-color: #563D4D;
+    background: url(../images/sitephotos/durham-castle-at-night.jpg) center center no-repeat #563D4D;
+    background-size: 150%;
+    background-attachment: fixed;
     min-height: 150vh;
 }
 
