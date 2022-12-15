@@ -545,10 +545,12 @@ list-style: none;
     padding-top: 40px;
     width: 90%;
     margin: auto;
+    min-height: 150vh;
 }
 
 #reviews-main {
     background-color: #563D4D;
+    min-height: 150vh;
 }
 
 .reviews-section > div {
@@ -1025,6 +1027,32 @@ input, textarea {
         height: 140px;
     }
 
+    .reviews-section > div {
+        float: left;
+        width: 40%;
+        margin-left: 5%;
+        margin-top: 2%;
+        border-radius: 2%;
+    }
+
+    #review-image1, #review-image2, #review-image3 {
+        float: right;
+        width: 35%;
+        margin-right: 5%;
+        margin-top: 1%;
+        overflow: hidden;
+        height: 200px;
+        border-radius: 2%;
+    }
+
+    .reviews-section {
+        min-height: 150vh;
+    }
+
+    #reviews-main {
+        min-height: 150vh;
+    }
+
 /* Contact */
 
     #contact-header-title {
@@ -1092,5 +1120,17 @@ input, textarea {
 
     #media-header > ul {
         font-size: 240%;
+    }
+
+    /* Reviews */
+
+    .reviews-section, #reviews-main {
+        min-height: 150vh;
+    }
+}
+
+@media screen and (min-height: 650px) {
+    .reviews-section, #reviews-main {
+        min-height: 100vh;
     }
 }
