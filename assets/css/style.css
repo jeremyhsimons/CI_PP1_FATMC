@@ -541,11 +541,13 @@ list-style: none;
 }
 
 .reviews-section {
-    background-color: #EFF3EB;
+    background-color: #acb7bb;
     padding-top: 40px;
+    padding-bottom: 40px;
     width: 90%;
     margin: auto;
     min-height: 150vh;
+    border-bottom: 5px solid #FFDB58;
 }
 
 #reviews-main {
@@ -553,8 +555,8 @@ list-style: none;
     min-height: 150vh;
 }
 
-.reviews-section > div {
-    background-color: #acb7bb;
+.review-card {
+    background-color: #EFF3EB;
     padding: 20px 10px;
     width: 250px;
     height: 100px;
@@ -567,7 +569,6 @@ list-style: none;
     width: 300px;
     height: 100px;
     background-color: #EFF3EB;
-    padding: 0px;
     margin: auto;
     margin-top: 40px;
     margin-bottom: 80px;
@@ -580,7 +581,7 @@ list-style: none;
 
 #review-image1 > img, #review-image2 > img, #review-image3 > img {
     max-width: 100%;
-    border-radius: 2.5%;
+    border-radius: 2%;
 }
 
 .review {
@@ -1043,7 +1044,12 @@ input, textarea {
         overflow: hidden;
         height: 200px;
         border-radius: 2%;
+        background-color: #acb7bb;
     }
+
+   /* #review-image1 > img, #review-image3 > img {
+       height: 100%;
+    }*/
 
     .reviews-section {
         min-height: 150vh;
@@ -1129,8 +1135,17 @@ input, textarea {
     }
 }
 
-@media screen and (min-height: 650px) {
+@media screen and (min-height: 650px) and (min-width: 1200px) {
     .reviews-section, #reviews-main {
         min-height: 100vh;
+    }
+
+    #review-image2 {
+        height: 250px;
+    }
+
+    #review-image1, #review-image2, #review-image2 {
+        margin-top: 2.5%;
+        margin-bottom: 2.5%;
     }
 }
