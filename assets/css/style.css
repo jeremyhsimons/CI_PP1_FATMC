@@ -425,9 +425,13 @@ list-style: none;
 /*STYLE RULES FOR THE MEDIA PAGE*/
 
 #media-header {
-    background-color: #EFF3EB;
+    background-color: #acb7bb;
     text-align: center;
     padding: 50px 0px;
+}
+
+#video-section {
+    padding-top: 30px;
 }
 
 #media-section {
