@@ -22,7 +22,7 @@ body {
 /* footer styling */
 
 footer {
-    height: 23vh;
+    height: 28vh;
     background-color: #FFDB58;
     border-top: 10px solid #acb7bb;
     overflow: hidden;
@@ -38,12 +38,19 @@ footer > ul > li {
 
 footer > p {
     text-transform: capitalize;
-    padding-top: 30px;
+    padding-top: 20px;
     font-family: Anton, sans-serif;
     letter-spacing: 8px;
     font-size: 150%;
     text-transform: uppercase;
     color: #563D4D;
+}
+
+#copyright {
+    font-family: Commissioner, sans-serif;
+    letter-spacing: normal;
+    font-size: 100%;
+    text-transform: none;
 }
 
 .social-links > li {
