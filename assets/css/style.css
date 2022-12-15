@@ -987,6 +987,14 @@ input, textarea {
         font-size: 250%;
     }
 
+    #video-section, #video-description {
+        display: inline-block;
+        width: 30%;
+        margin: 30px;
+    }
+
+    
+
     #media-section > p, #soundcloud-section > p {
         font-size: 140%;
         max-width: 800px;
