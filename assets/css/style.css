@@ -617,11 +617,13 @@ list-style: none;
     float: right;
     max-width: 40%;
     padding-right: 10%;
+    color: #EFF3EB;
 }
 
 #contact-header-title > h2 {
     letter-spacing: 2px;
     font-size: 100%;
+    color: #EFF3EB;
 }
 
 #contact-header-image {
