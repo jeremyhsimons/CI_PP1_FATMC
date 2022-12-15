@@ -55,28 +55,30 @@
         <div id="contact-header-underline"></div>
     </header>
     <main id="contact-background">
-        <section id="contact-form">
-            <form action="thanks.html">
-                <label for="fname">First Name:</label><br>
-                <input type="text" name="fname" id="fname" value="" placeholder="e.g. John/Jane" required><br>
-                <label for="lname">Last Name:</label><br>
-                <input type="text" name="lname" id="lname" value="" placeholder="e.g. Doe" required><br>
-                <label for="email">Email Address:</label><br>
-                <input type="email" name="email" id="email" value="" placeholder="e.g. hello@email.com" required><br>
-                <label for="date">Date of Event:</label><br>
-                <input type="date" id="date" name="date" required><br>
-                <label for="set-length">Length of set required:</label><br>
-                <input type="radio" name="set-length" id="30min" value="30minutes">
-                <label for="30min">30 Minutes</label><br>
-                <input type="radio" name="set-length" id="45min" value="45minutes">
-                <label for="45min">45 Minutes</label><br>
-                <input type="radio" name="set-length" id="60min" value="60minutes">
-                <label for="60min">60 Minutes</label><br>
-                <textarea name="more-info" id="more-info" cols="30" rows="18" required 
-                 placeholder="Tell us more about your event: location, budget, sound and lighting requirements etc..."></textarea><br>
-                <button type="submit" id="submit">Book Now</button>
-                <button type="reset" id="reset">Reset</button>
-            </form>
+        <section id="contact-form-container">
+            <section id="contact-form">
+                <form action="thanks.html">
+                    <label for="fname">First Name:</label><br>
+                    <input type="text" name="fname" id="fname" value="" placeholder="e.g. John/Jane" required><br>
+                    <label for="lname">Last Name:</label><br>
+                    <input type="text" name="lname" id="lname" value="" placeholder="e.g. Doe" required><br>
+                    <label for="email">Email Address:</label><br>
+                    <input type="email" name="email" id="email" value="" placeholder="e.g. hello@email.com" required><br>
+                    <label for="date">Date of Event:</label><br>
+                    <input type="date" id="date" name="date" required><br>
+                    <label for="set-length">Length of set required:</label><br>
+                    <input type="radio" name="set-length" id="30min" value="30minutes">
+                    <label for="30min">30 Minutes</label><br>
+                    <input type="radio" name="set-length" id="45min" value="45minutes">
+                    <label for="45min">45 Minutes</label><br>
+                    <input type="radio" name="set-length" id="60min" value="60minutes">
+                    <label for="60min">60 Minutes</label><br>
+                    <textarea name="more-info" id="more-info" cols="30" rows="18" required 
+                    placeholder="Tell us more about your event: location, budget, sound and lighting requirements etc..."></textarea><br>
+                    <button type="submit" id="submit">Book Now</button>
+                    <button type="reset" id="reset">Reset</button>
+                </form>
+            </section>
         </section>
     </main>
     <!--Social links-->

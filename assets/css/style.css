@@ -645,14 +645,24 @@ list-style: none;
 
 #contact-background {
     background-color: #acb7bb;
+    border-bottom: 5px solid #563D4D;
 }
+
+/*#contact-form-container {
+    background: url(../images/sitephotos/human-2018-harry-hannah-joe.jpg) no-repeat center center #563D4D;
+    background-size: 40%;
+    background-attachment: fixed;
+    width: 50%;
+    margin: auto;
+    border: 5px solid #FFDB58;
+}*/
 
 #contact-form {
     background-color: #EFF3EB;
-    padding: 10%;
     border: 1px solid #563D4D;
     max-width: 300px;
     margin: auto;
+    padding: 5px;
 }
 
 label {
@@ -916,6 +926,15 @@ input, textarea {
         padding-right: 10%;
     } 
 
+    #contact-form-container {
+        background: url(../images/sitephotos/human-2018-harry-hannah-joe.jpg) no-repeat center center #563D4D;
+        background-size: 70%;
+        background-attachment: fixed;
+        width: 50%;
+        margin: auto;
+        border: 5px solid #FFDB58;
+    }
+
     #contact-form {
         padding: 5% 2%;
     }
@@ -1116,6 +1135,10 @@ input, textarea {
         padding-top: 10px;
     }
 
+    #contact-form-container {
+        background-size: 50%;
+    }
+
     #contact-form {
         padding: 5% 2%;
     }
@@ -1167,6 +1190,12 @@ input, textarea {
 
     .reviews-section, #reviews-main {
         min-height: 150vh;
+    }
+
+    /* Contact */
+
+    #contact-form-container {
+        background-size: 40%;
     }
 }
 
