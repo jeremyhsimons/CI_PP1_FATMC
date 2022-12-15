@@ -607,8 +607,10 @@ list-style: none;
 
 #contact-header {
     min-height:  300px;;
-    background-color: #EFF3EB;
-    border-bottom: 10px solid #acb7bb;
+    background-color: #563D4D;
+    border-bottom: 5px solid #FFDB58;
+    border-top: 5px solid #FFDB58;
+    padding-top: 5px;
 }
 
 #contact-header-title {
