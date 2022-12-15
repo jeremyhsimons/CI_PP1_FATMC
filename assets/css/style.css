@@ -428,6 +428,9 @@ list-style: none;
     background-color: #563D4D;
     text-align: center;
     padding: 50px 0px;
+    border-bottom: 5px solid #FFDB58;
+    border-top: 5px solid #FFDB58;
+
 }
 
 #media-header > h2, #media-header > p, #media-header > ul {
@@ -484,6 +487,8 @@ list-style: none;
     padding-top: 80px;
     padding-bottom: 50px;
     color: #EFF3EB;
+    border-top: 5px solid #FFDB58;
+    border-bottom: 5px solid #FFDB58;
 }
 
 #soundcloud-card {
