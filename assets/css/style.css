@@ -1067,5 +1067,7 @@ input, textarea {
 
     /* Media */
 
-    #media-header
+    #media-header > ul {
+        font-size: 240%;
+    }
 }
