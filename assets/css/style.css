@@ -425,9 +425,32 @@ list-style: none;
 /*STYLE RULES FOR THE MEDIA PAGE*/
 
 #media-header {
-    background-color: #acb7bb;
+    background-color: #563D4D;
     text-align: center;
     padding: 50px 0px;
+}
+
+#media-header > h2, #media-header > p, #media-header > ul {
+    color: #EFF3EB;
+    padding: 20px;
+    list-style: none;
+}
+
+#media-header > p {
+    max-width: 400px;
+    margin: auto;
+}
+
+#media-header > img, #media-header > ul {
+    display: inline-block;
+    width: 70%;
+}
+
+#media-header > ul {
+    font-size: 80%;
+    font-family: Anton, sans-serif;
+    letter-spacing: 4px;
+    text-align: left;
 }
 
 #video-section {
@@ -812,6 +835,11 @@ input, textarea {
 
 /* media */
 
+#media-header > ul {
+    font-size: 120%;
+    text-align: center;
+}
+
 #media-section > p, #soundcloud-section > p {
     font-size: 110%;
     font-weight: 450;
@@ -941,6 +969,15 @@ input, textarea {
 
 /* Media */
 
+    #media-header > ul {
+        font-size: 150%;
+        text-align: left;
+    }
+
+    #media-header > ul, #media-header > img {
+        width: 40%;
+    }
+
     #media-header > h2 {
         font-size: 250%;
     }
@@ -1027,4 +1064,8 @@ input, textarea {
         min-height: 800px;
         color: #563D4D;
     }
+
+    /* Media */
+
+    #media-header
 }
