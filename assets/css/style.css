@@ -71,7 +71,7 @@ footer {
     margin: 0px;
     height: 100vh;
     width: 100%;
-    background: url(../images/sitephotos/Joe2019v2.jpg) no-repeat center center, #563D4D;
+    background: url(../images/sitephotos/joebio.jpg) no-repeat center center, #563D4D;
     background-size: 100%;
     background-attachment: fixed;
     padding-top: 45px;
@@ -211,25 +211,25 @@ list-style: none;
 }
 
 #card1 {
-    background: url(../images/sitephotos/wholebandjuneball2019.jpg) no-repeat bottom center #563D4D;
+    background: url(../images/sitephotos/whole-band-june-ball-2019.jpg) no-repeat bottom center #563D4D;
     background-size: 280%;
     overflow: hidden;
 }
 
 #card2 {
-    background: url(../images/sitephotos/Juneball2019lensflare.jpg) no-repeat bottom center #563D4D;
+    background: url(../images/sitephotos/june-ball-2019-lens-flare.jpg) no-repeat bottom center #563D4D;
     background-size: 280%;
     overflow: hidden;
 }
 
 #card3 {
-    background: url(../images/sitephotos/juneball2019groove.jpg) no-repeat center center #563D4D;
+    background: url(../images/sitephotos/june-ball-2019-groove.jpg) no-repeat center center #563D4D;
     background-size: 250%;
     overflow: hidden;
 }
 
 #card4 {
-    background: url(../images/sitephotos/Human2018background_1.jpg) no-repeat center center #563D4D;
+    background: url(../images/sitephotos/human-2018-harry-hannah-joe.jpg) no-repeat center center #563D4D;
     background-size: 250%;
     overflow: hidden;
 }
@@ -662,7 +662,7 @@ input, textarea {
     margin: 0px;
     height: 100vh;
     width: 100%;
-    background: url(../images/sitephotos/Human2018background_2.jpg) no-repeat center center, #563D4D;
+    background: url(../images/sitephotos/human-2018-hero-image.jpg) no-repeat center center, #563D4D;
     background-size: 100%;
     background-attachment: fixed;
     padding-top: 45px;
