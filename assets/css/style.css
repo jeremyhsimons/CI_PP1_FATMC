@@ -897,10 +897,10 @@ input, textarea {
 
     #contact-header-image {
         float: left;
-        width: 35%;
+        width: 40%;
         padding-top: 20px;
-        padding-left: 15%;
-        padding-bottom: 5%;
+        padding-left: 10%;
+        padding-bottom: 2%;
     }
 
     #contact-header-image > img {
@@ -961,6 +961,8 @@ input, textarea {
         padding: 4% 4% 6% 4%;
     }
 }
+
+/* Rules for screens 950px wide and above */
 
 @media screen and (min-width: 950px) {
     
@@ -1099,12 +1101,8 @@ input, textarea {
     }
 
     #contact-header-image {
-        width: 30%;
-        padding-top: 0px;
-    }
-
-    #contact-header-image > img {
-        max-width: 200px;
+        width: 35%;
+        padding-top: 10px;
     }
 
     #contact-form {
