@@ -525,18 +525,30 @@ list-style: none;
 /* STYLE RULES FOR THE REVIEWS PAGE*/
 
 #reviews-header {
-    background-color: #EFF3EB;
+    background-color: #BB4F78;
     text-align: center;
-    color: #563D4D;
+    color: #EFF3EB;
     padding: 30px;
+    border-bottom: 5px solid #FFDB58;
 }
 
 #reviews-header > h3 {
     font-size: 90%;
 }
 
+#reviews-header > h2 {
+    color: #EFF3EB;
+}
+
 .reviews-section {
     background-color: #EFF3EB;
+    padding-top: 40px;
+    width: 90%;
+    margin: auto;
+}
+
+#reviews-main {
+    background-color: #563D4D;
 }
 
 .reviews-section > div {
