@@ -477,6 +477,23 @@ list-style: none;
     height: 80%;
 }
 
+#soundcloud-links {
+    font-size: 10px;
+    color: #cccccc;
+    line-break: anywhere;
+    word-break: normal;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;
+    font-weight: 100;
+}
+
+#soundcloud-links > a {
+    color: #cccccc;
+    text-decoration: none;
+}
+
 /* STYLE RULES FOR THE REVIEWS PAGE*/
 
 #reviews-header {
