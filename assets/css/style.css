@@ -76,6 +76,7 @@ footer {
 #hero-image {
     margin: 0px;
     height: 100vh;
+    min-height: 500px;
     width: 100%;
     background: url(../images/sitephotos/joebio.jpg) no-repeat center center, #563D4D;
     background-size: 100%;
@@ -164,6 +165,7 @@ h1, h2 {
 #nav-home{
     background-color: #EFF3EB;
     height: 77vh;
+    min-height: 300px;
     width: 100%;
     padding-top: 5%;
 }
