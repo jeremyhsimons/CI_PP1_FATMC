@@ -98,10 +98,6 @@ h1, h2 {
     width: 200px;
 }
 
-/* #logo-text-container > h1 {
-    font-size: 300%;
-} */
-
 #logo {
     height: 25%;
     width: 50%;
@@ -163,7 +159,6 @@ h1, h2 {
     display: inline;
 }
 
-
 /* home page nav section */
 
 #nav-home{
@@ -173,16 +168,15 @@ h1, h2 {
     padding-top: 5%;
 }
 
-#nav-home > ul{
-list-style: none;
+#nav-home > ul {
+    list-style: none;
 }
 
-.nav-home-card-left > p, .nav-home-card-right > p{
+.nav-home-card-left > p, .nav-home-card-right > p {
     color: #563D4D;
     background-color: #EFF3EB;
     font-weight: 400;
     padding: 2%;
-    
 }
 
 .nav-home-card-left, .nav-home-card-right {
@@ -430,6 +424,8 @@ list-style: none;
 
 /*STYLE RULES FOR THE MEDIA PAGE*/
 
+/* Page header */
+
 #media-header {
     background-color: #563D4D;
     text-align: center;
@@ -462,6 +458,8 @@ list-style: none;
     text-align: left;
 }
 
+/* Video section */
+
 #video-section {
     padding-top: 30px;
 }
@@ -486,6 +484,8 @@ list-style: none;
     padding-top: 35px;
     border-radius: 2%;
 }
+
+/* Soundcloud section */
 
 #soundcloud-section {
     width: 100%;
@@ -530,6 +530,8 @@ list-style: none;
 
 /* STYLE RULES FOR THE REVIEWS PAGE*/
 
+/* Page header */
+
 #reviews-header {
     background-color: #BB4F78;
     text-align: center;
@@ -545,6 +547,8 @@ list-style: none;
 #reviews-header > h2 {
     color: #EFF3EB;
 }
+
+/* Reviews content */
 
 .reviews-section {
     background-color: #acb7bb;
@@ -609,7 +613,7 @@ list-style: none;
 
 /*STYLE RULES FOR CONTACT PAGE*/
 
-/*Header*/
+/* Page header */
 
 #contact-header {
     min-height:  300px;;
@@ -1171,7 +1175,6 @@ input, textarea {
 
     .nav-home-card-left, .nav-home-card-right {
         width: 280px;
-        max-width: 20%;
     }
 
     #card1, #card2 {
