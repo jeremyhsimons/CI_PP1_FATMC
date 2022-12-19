@@ -1171,6 +1171,7 @@ input, textarea {
 
     .nav-home-card-left, .nav-home-card-right {
         width: 280px;
+        max-width: 20%;
     }
 
     #card1, #card2 {
