@@ -1,6 +1,5 @@
 /*STYLE RULES COMMON ACROSS WEBSITE*/
 
-
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Commissioner:wght@300&display=swap');
 
 *{
@@ -654,15 +653,6 @@ list-style: none;
     background-color: #acb7bb;
     border-bottom: 5px solid #563D4D;
 }
-
-/*#contact-form-container {
-    background: url(../images/sitephotos/human-2018-harry-hannah-joe.jpg) no-repeat center center #563D4D;
-    background-size: 40%;
-    background-attachment: fixed;
-    width: 50%;
-    margin: auto;
-    border: 5px solid #FFDB58;
-}*/
 
 #contact-form {
     background-color: #EFF3EB;
