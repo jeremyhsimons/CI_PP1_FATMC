@@ -671,7 +671,9 @@ label {
 }
 
 input, textarea {
-    margin: 10px 5px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
     font-family: Commissioner, sans-serif;
     font-weight: 600;
     color: #563D4D;
