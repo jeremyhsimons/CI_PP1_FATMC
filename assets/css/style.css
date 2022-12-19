@@ -701,14 +701,14 @@ input, textarea {
     color: #FFDB58;
 }
 
-/*Thanks page*/
+/* Thanks page and 404 page */
 
-#thanks-message {
+#thanks-message, #error-message {
     background-color: #EFF3EB;
     padding: 10%;
 }
 
-#thanks-message > h2{
+#thanks-message > h2, #error-message > h2{
     background-color: #FFDB58;
     border-radius: 2%;
     text-align: center;
@@ -719,6 +719,15 @@ input, textarea {
     text-align: center;
     font-size: 120%;
     padding-top: 10%;
+    color: #563D4D;
+}
+
+#error-message > a {
+    text-decoration: none;
+    background-color: #BB4F78;
+    color: #EFF3EB;
+    width: 200px;
+    margin: auto;
 }
 
 /* MEDIA QUERIES */
