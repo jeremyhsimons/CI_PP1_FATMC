@@ -1147,6 +1147,7 @@ input, textarea {
 
     #contact-form {
         padding: 5% 2%;
+        width: 100%;
     }
 }
 
