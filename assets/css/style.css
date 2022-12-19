@@ -137,7 +137,7 @@ h1, h2 {
     font-size: 400%;
     font-family: Anton, sans-serif;
     letter-spacing: 6px;
-    background-color: #BB4F78;
+    background-color: #8C3657;
     border-radius: 2%;
     text-decoration: none;
     text-transform: uppercase;
@@ -272,7 +272,7 @@ h1, h2 {
 }
 
 #nav-logo:hover {
-    border: 4px solid #BB4F78;
+    border: 4px solid #8C3657;
 }
 
 #nav-menu {
@@ -358,7 +358,7 @@ h1, h2 {
 
 .about-bio {
     font-size: 75%;
-    background-color: #BB4F78;
+    background-color: #8C3657;
     height: 85px;
     padding: 5px;
     padding-bottom: 8px;
@@ -408,13 +408,13 @@ h1, h2 {
 #book-now > p > a > span {
     margin: 0 10px;
     padding: 10px;
-    background-color: #BB4F78;
-    color: #EFF3EB;
+    background-color: #8C3657;
+    color: white;
     border-radius: 5%;
 }
 
 #book-now > p > a > span:hover {
-    color: #acb7bb;
+    color: #FFDB58;
     background-color: #563D4D;
 }
 
@@ -533,9 +533,9 @@ h1, h2 {
 /* Page header */
 
 #reviews-header {
-    background-color: #BB4F78;
+    background-color: #8C3657;
     text-align: center;
-    color: #EFF3EB;
+    color: white;
     padding: 30px;
     border-bottom: 5px solid #FFDB58;
 }
@@ -545,7 +545,7 @@ h1, h2 {
 }
 
 #reviews-header > h2 {
-    color: #EFF3EB;
+    color: white;
 }
 
 /* Reviews content */
@@ -682,7 +682,7 @@ input, textarea {
 }
 
 #submit {
-    background-color: #BB4F78;
+    background-color: #8C3657;
     padding: 10px;
     border-radius: 5%;
     color: #EFF3EB;
@@ -695,7 +695,7 @@ input, textarea {
 }
 
 #reset {
-    background-color: #BB4F78;
+    background-color: #8C3657;
     padding: 10px;
     border-radius: 5%;
     color: #EFF3EB;
@@ -730,7 +730,7 @@ input, textarea {
 
 #error-message > a {
     text-decoration: none;
-    background-color: #BB4F78;
+    background-color: #8C3657;
     color: #EFF3EB;
     width: 200px;
     margin: auto;
@@ -1049,7 +1049,7 @@ input, textarea {
         max-height: 80%;
         margin: auto;
         border: 3px solid #FFDB58;
-        color: #BB4F78;
+        color: #8C3657;
     }
 
 /* About */
@@ -1129,7 +1129,7 @@ input, textarea {
 /* Contact */
 
     #contact-header-title {
-        background-color: #BB4F78;
+        background-color: #8C3657;
         padding-bottom: 20px;
         padding-left: 20px;
     }
