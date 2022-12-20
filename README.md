@@ -206,6 +206,33 @@ The site's accessibility was tested using the [WAVE](https://wave.webaim.org/) t
 </details><br>
 
 #### **Performance**
+The performance of the website was tested using Lighthouse within Chrome developer tools. The tests below were for desktop devices and all pages acheived a score above 90/100 for the criteria of performance, accessibility, best practices, and SEO.
+
+<details>
+    <summary>Home page</summary>
+    <img src="readme-docs/validation/homepage-performance.png" alt="A screenshot of the performance report for the home page.">
+</details><br>
+
+<details>
+    <summary>About page</summary>
+    <img src="readme-docs/validation/about-performance.png" alt="A screenshot of the performance report for the about page.">
+</details><br>
+
+<details>
+    <summary>Media page</summary>
+    <img src="readme-docs/validation/media-performance.png" alt="A screenshot of the performance report for the media page.">
+</details><br>
+
+<details>
+    <summary>Reviews page</summary>
+    <img src="readme-docs/validation/reviews-performance.png" alt="A screenshot of the performance report for the reviews page.">
+</details><br>
+
+<details>
+    <summary>Contact page</summary>
+    <img src="readme-docs/validation/contact-performance.png" alt="A screenshot of the performance report for the contact page.">
+</details><br>
+
 ### Testing user stories
 ### Bugs
 
