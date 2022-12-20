@@ -11,14 +11,34 @@ Having a strong online presence is a must for any serious musician in the 21st c
 Forster and the Mustard Cutters is a Durham-based function band with lots of experience playing at live events such as parties, conferences, and university balls. They are looking to drum up more interest in their services and get more gigs. This site aims to provide them with a way to showcase their skills in an attractive and professional manner, and make it easy for site visitors to book their services. 
 
 ## Contents
+* [Project Goals](#project-goals)<br>
+    * [For the user](#for-the-user)
+    * [For the site owner](#for-the-site-owner)
 * [User Experience](#user-experience)<br>
     * [User Stories](#user-stories)
 * [Design](#design)
+    * [Design Summary](#design-summary)
+    * [Colour Scheme](#colour-scheme)
+    * [Wireframes](#wireframes)
 * [Features](#features)
 * [Technologies Used](#technologies-used)
 * [Deployment & Local Development](#deployment--local-development)
 * [Testing](#testing)
 * [Credits](#credits)
+
+## Project Goals
+
+### ...For the user
+1. To find out whether I like this band and want them to play at my event.
+1. To easily navigate their site to find relevant information.
+1. To have an enjoyable experience using their site.
+1. For all links to external media to work as expected.
+1. For there to be an easy way to contact the band.
+
+### ...For the site owner
+1. To promote the band/have an avenue to receive more bookings.
+1. To promote the band's social media presence.
+1. To entertain visitors to the website.
 
 ## User Experience
 ### User Stories
@@ -42,9 +62,31 @@ As a **website owner** or **band member** I want to:
 * Have a place where I can showcase the band’s playing so that I can prove that we are worth hiring.
 
 ## Design
+### Design Summary
+The aim of this website's design is to make the customer feel like this band is fun and lighthearted whilst also being professional and easy to work with. This influenced both the colour scheme chosen for the website and the layout which are described below.
+
+### Colour Scheme
+Colormind.io was used to generate the colorscheme for this website. A key color that was included in this was the hex value #FFDB58 which is the mustard colour. This 'mustard' tone colour linked the website's design to the band's name and branding. 
+
+The warm colors were chosen to give the user a sense of this being a friendly and fun band who are good to work with and who can generate a positive atmosphere when performing at a party/event.
+
+The following is a screenshot of the colour scheme chosen however, due to accessibility issues with text/background, #BB4F78 was changed to a darker shade of maroon: #8C3657.
+
+<img>
+
 ### Wireframes
 
 The wireframes below were created using [figma](https://www.figma.com/). The layout for each of the pages has been designed to suit mobile, tablet, and desktop devices.
+
+#### Homepage
+
+#### About
+
+#### Media
+
+#### Reviews
+
+#### Contact
 
 ## Features
 
