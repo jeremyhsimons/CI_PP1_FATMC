@@ -24,6 +24,13 @@ Forster and the Mustard Cutters is a Durham-based function band with lots of exp
 * [Technologies Used](#technologies-used)
 * [Deployment & Local Development](#deployment--local-development)
 * [Testing](#testing)
+    * [Validation](#validation)
+        * [HTML](#html)
+        * [CSS](#css)
+        * [Accessibility](#accessibility)
+        * [Performance](#performance)
+    * [Testing user stories](#testing-user-stories)
+    * [Bugs](#bugs)
 * [Credits](#credits)
 
 ## Project Goals
@@ -63,6 +70,10 @@ As a **website owner** or **band member** I want to:
 * Have a place where I can showcase the band’s playing so that I can prove that we are worth hiring.
 
 ## Design
+
+<img src="readme-docs/am-i-responsive.png" alt="a screenshot of the site's home page displayed on various devices, provided by ui.dev/amiresponsive">
+<br>
+
 ### Design Summary
 The aim of this website's design is to make the customer feel like this band is fun and lighthearted whilst also being professional and easy to work with. This influenced both the colour scheme chosen for the website and the layout which are described below.
 
@@ -144,6 +155,15 @@ HTML, CSS
 
 ## Testing
 ### Debugging
+The site was debugged using Google Chrome Developer tools. The site was also tested using the following browsers: 
+* Google Chrome
+* Mozilla Firefox
+* Microsoft Edge
+
+The site was tested on the following devices:
+* Lenovo Ideapad 520S (Windows 10)
+* Huawei PSmart 2019 (EMUI version 12.0.0)
+
 ### Validation
 #### **HTML**
 All HTML files were validated using the [w3c vaildation service](https://validator.w3.org/). All pages passed with no errors and no warnings.
@@ -247,15 +267,15 @@ The performance of the website was tested using Lighthouse within Chrome develop
 * The embedded soundcloud player was copied from Soundcloud.com (https://soundcloud.com/andrew-silk-743237145/isnt-she-lovely). 
     - I clicked on the 'share' button underneath the player.
 
-        <img src="readme-docs/soundcloud-share.png" alt="A screenshot of the soundclound web player with the share button highlighted.">
+        <img src="readme-docs/soundcloud-share.png" alt="A screenshot of the soundclound web player with the share button highlighted."><br>
 
     - I clicked on the 'embed' tab.
 
-        <img src="readme-docs/soundcloud-embed.png" alt="A screenshot of the soundclound share modal with the embed tab highlighted.">
+        <img src="readme-docs/soundcloud-embed.png" alt="A screenshot of the soundclound share modal with the embed tab highlighted."><br>
 
     - I copy/pasted the iframe element provided and pasted into my own code.
 
-        <img src="readme-docs/soundcloud-iframe.png" alt="A screenshot of the soundclound share modal with the iframe code snippet highlighted.">
+        <img src="readme-docs/soundcloud-iframe.png" alt="A screenshot of the soundclound share modal with the iframe code snippet highlighted."><br>
     
     - I deleted the allow="autoplay" attributes as well as the obsolete inline CSS in the iframe element, and added aria labels to the extra soundcloud links that appear in the code.
 
