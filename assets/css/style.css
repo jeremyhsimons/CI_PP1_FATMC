@@ -408,7 +408,7 @@ h1, h2 {
     line-height: 40px;
 }
 
-#book-now > p > a > span {
+#book-now > h3 > a > span {
     margin: 0 10px;
     padding: 10px;
     background-color: #8C3657;
@@ -416,12 +416,12 @@ h1, h2 {
     border-radius: 5%;
 }
 
-#book-now > p > a > span:hover {
+#book-now > h3 > a > span:hover {
     color: #FFDB58;
     background-color: #563D4D;
 }
 
-#book-now > p > a{
+#book-now > h3 > a{
     text-decoration: none;
 }
 
@@ -467,15 +467,24 @@ h1, h2 {
     padding-top: 30px;
 }
 
+#video-section > h3 {
+    margin-bottom: 10px;
+}
+
 #media-section {
     background-color: #EFF3EB;
     color: #563D4D;
     text-align: center;
     padding-bottom: 30px;
+    padding-top: 15px;
 }
 
 #media-section > p {
     margin: 30px 10px;
+}
+
+video {
+    width: 250px;
 }
 
 #video-card {
@@ -498,6 +507,10 @@ h1, h2 {
     color: #EFF3EB;
     border-top: 5px solid #FFDB58;
     border-bottom: 5px solid #FFDB58;
+}
+
+#soundcloud-section > h3 {
+    margin-bottom: 10px;
 }
 
 #soundcloud-card {
@@ -560,6 +573,14 @@ h1, h2 {
     width: 90%;
     margin: auto;
     min-height: 150vh;
+}
+
+.reviews-section > h3 {
+    text-align: center;
+    color: #563D4D;
+    font-size: 150%;
+    font-family: Commissioner, sans-serif;
+    margin-bottom: 25px;
 }
 
 #reviews-main {
@@ -667,6 +688,11 @@ h1, h2 {
     max-width: 300px;
     margin: auto;
     padding: 5px;
+}
+
+#contact-form > h3 {
+    margin-bottom: 20px;
+    color: #563D4D;
 }
 
 label {
