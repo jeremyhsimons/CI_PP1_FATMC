@@ -146,33 +146,43 @@ HTML, CSS
 ### Debugging
 ### Validation
 #### **HTML**
-All HTML pages were validated using the [w3c vaildation service](https://validator.w3.org/). All pages passed with no errors and no warnings.
+All HTML files were validated using the [w3c vaildation service](https://validator.w3.org/). All pages passed with no errors and no warnings.
 <details>
     <summary>Home page</summary>
-    <img src="readme-docs/validation/homepage-html-valid.png">
+    <img src="readme-docs/validation/homepage-html-valid.png" alt="A screenshot of the validator confirming the homepage has no errors">
 </details><br>
 
 <details>
     <summary>About page</summary>
-    <img src="readme-docs/validation/homepage-html-valid.png">
+    <img src="readme-docs/validation/about-html-valid.png" alt="A screenshot of the validator confirming the about page has no errors">
 </details><br>
 
 <details>
     <summary>Media page</summary>
-    <img src="readme-docs/validation/homepage-html-valid.png">
+    <img src="readme-docs/validation/media-html-valid.png" alt="A screenshot of the validator confirming the media page has no errors">
 </details><br>
 
 <details>
     <summary>Reviews page</summary>
-    <img src="readme-docs/validation/homepage-html-valid.png">
+    <img src="readme-docs/validation/reviews-html-valid.png" alt="A screenshot of the validator confirming the reviews page has no errors">
 </details><br>
 
 <details>
     <summary>Contact page</summary>
-    <img src="readme-docs/validation/homepage-html-valid.png">
+    <img src="readme-docs/validation/contact-html-valid.png" alt="A screenshot of the validator confirming the contact page has no errors">
+</details><br>
+
+<details>
+    <summary>Thanks page</summary>
+    <img src="readme-docs/validation/thanks-html-valid.png" alt="A screenshot of the validator confirming the thanks/form submit page has no errors">
 </details><br>
 
 #### **CSS**
+The stylesheet for this website was validated using the W3C [Jigsaw](https://jigsaw.w3.org/css-validator/) CSS validation service. The file contained no errors.
+
+<img src="readme-docs/validation/css-valid.png" alt="A screenshot of the validation site confirming no CSS errors">
+
+
 #### **Accessibility**
 #### **Performance**
 ### Testing user stories
