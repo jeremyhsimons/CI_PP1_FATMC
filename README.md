@@ -109,6 +109,21 @@ HTML, CSS
 
 
 ## Testing
+### Debugging
+### Validation
+#### **HTML**
+All HTML pages were validated using the [w3c vaildation service](https://validator.w3.org/). All pages passed with no errors and no warnings.
+<details>
+    <summary>Home page</summary>
+    <img src="readme-docs/validation/homepage-html-valid.png">
+</details><br>
+
+#### **CSS**
+#### **Accessibility**
+#### **Performance**
+### Testing user stories
+### Bugs
+
 
 ## Credits
 * Thanks to my Mentor Mo Shami for his advice and encouragement throughout this project.
