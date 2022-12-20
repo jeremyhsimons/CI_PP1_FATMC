@@ -149,32 +149,27 @@ HTML, CSS
 All HTML files were validated using the [w3c vaildation service](https://validator.w3.org/). All pages passed with no errors and no warnings.
 <details>
     <summary>Home page</summary>
-    <img src="readme-docs/validation/homepage-html-valid.png" alt="A screenshot of the validator confirming the homepage has no errors">
+    <img src="readme-docs/validation/homepage-html-valid.png" alt="A screenshot of the validator confirming the homepage has no HTML errors">
 </details><br>
 
 <details>
     <summary>About page</summary>
-    <img src="readme-docs/validation/about-html-valid.png" alt="A screenshot of the validator confirming the about page has no errors">
+    <img src="readme-docs/validation/about-html-valid.png" alt="A screenshot of the validator confirming the about page has no HTML errors">
 </details><br>
 
 <details>
     <summary>Media page</summary>
-    <img src="readme-docs/validation/media-html-valid.png" alt="A screenshot of the validator confirming the media page has no errors">
+    <img src="readme-docs/validation/media-html-valid.png" alt="A screenshot of the validator confirming the media page has no HTML errors">
 </details><br>
 
 <details>
     <summary>Reviews page</summary>
-    <img src="readme-docs/validation/reviews-html-valid.png" alt="A screenshot of the validator confirming the reviews page has no errors">
+    <img src="readme-docs/validation/reviews-html-valid.png" alt="A screenshot of the validator confirming the reviews page has HTML no errors">
 </details><br>
 
 <details>
     <summary>Contact page</summary>
-    <img src="readme-docs/validation/contact-html-valid.png" alt="A screenshot of the validator confirming the contact page has no errors">
-</details><br>
-
-<details>
-    <summary>Thanks page</summary>
-    <img src="readme-docs/validation/thanks-html-valid.png" alt="A screenshot of the validator confirming the thanks/form submit page has no errors">
+    <img src="readme-docs/validation/contact-html-valid.png" alt="A screenshot of the validator confirming the contact page has no HTML errors">
 </details><br>
 
 #### **CSS**
@@ -182,8 +177,34 @@ The stylesheet for this website was validated using the W3C [Jigsaw](https://jig
 
 <img src="readme-docs/validation/css-valid.png" alt="A screenshot of the validation site confirming no CSS errors">
 
-
 #### **Accessibility**
+The site's accessibility was tested using the [WAVE](https://wave.webaim.org/) tool by webaim. All pages passed with no errors or contrast errors.
+
+<details>
+    <summary>Home page</summary>
+    <img src="readme-docs/validation/homepage-access-valid.png" alt="A screenshot of the validator confirming the homepage has no accessibility errors">
+</details><br>
+
+<details>
+    <summary>About page</summary>
+    <img src="readme-docs/validation/about-access-valid.png" alt="A screenshot of the validator confirming the about page has no accessibility errors">
+</details><br>
+
+<details>
+    <summary>Media page</summary>
+    <img src="readme-docs/validation/media-access-valid.png" alt="A screenshot of the validator confirming the media page has no accessibility errors">
+</details><br>
+
+<details>
+    <summary>Reviews page</summary>
+    <img src="readme-docs/validation/reviews-access-valid.png" alt="A screenshot of the validator confirming the reviews page has no accessibility errors">
+</details><br>
+
+<details>
+    <summary>Contact page</summary>
+    <img src="readme-docs/validation/contact-access-valid.png" alt="A screenshot of the validator confirming the contact page has no accessibility errors">
+</details><br>
+
 #### **Performance**
 ### Testing user stories
 ### Bugs
