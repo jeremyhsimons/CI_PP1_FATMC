@@ -73,21 +73,55 @@ The warm colors were chosen to give the user a sense of this being a friendly an
 
 The following is a screenshot of the colour scheme chosen however, due to accessibility issues with text/background, #BB4F78 was changed to a darker shade of maroon: #8C3657.
 
-<img>
+<img src="readme-docs/color-scheme.png" alt="A screenshot of colormind.io and the colors chosen for the site.">
 
 ### Wireframes
 
 The wireframes below were created using [figma](https://www.figma.com/). The layout for each of the pages has been designed to suit mobile, tablet, and desktop devices.
 
-#### Homepage
+#### **Homepage**
 
-#### About
+<img src="readme-docs/wireframes/homepage1-desktop.png" alt="A screenshot of the figma homepage desktop mockup">
+<img src="readme-docs/wireframes/homepage1-tablet.png" alt="A screenshot of the figma homepage tablet mockup">
+<img src="readme-docs/wireframes/homepage1-mobile.png" alt=" A screenshot of the figma homepage mobile mockup">
 
-#### Media
+<img src="readme-docs/wireframes/homepage2-desktop.png" alt="A screenshot of the figma homepage desktop mockup">
+<img src="readme-docs/wireframes/homepage2-tablet.png" alt="A screenshot of the figma homepage tablet mockup">
+<img src="readme-docs/wireframes/homepage2-phone.png" alt=" A screenshot of the figma homepage mobile mockup">
 
-#### Reviews
+<br>
 
-#### Contact
+#### **About**
+
+<img src="readme-docs/wireframes/about-desktop.png" alt="A screenshot of the figma about page desktop mockup">
+<img src="readme-docs/wireframes/about-tablet.png" alt="A screenshot of the figma about page tablet mockup">
+<img src="readme-docs/wireframes/about-mobile.png" alt=" A screenshot of the figma about page mobile mockup">
+
+<br>
+
+#### **Media**
+
+<img src="readme-docs/wireframes/media-desktop.png" alt="A screenshot of the figma media page desktop mockup">
+<img src="readme-docs/wireframes/media-tablet.png" alt="A screenshot of the figma media page tablet mockup">
+<img src="readme-docs/wireframes/media-mobile.png" alt=" A screenshot of the figma media page mobile mockup">
+
+<br>
+
+#### **Reviews**
+
+<img src="readme-docs/wireframes/reviews-desktop.png" alt="A screenshot of the figma reviews page desktop mockup">
+<img src="readme-docs/wireframes/reviews-tablet.png" alt="A screenshot of the figma reviews page tablet mockup">
+<img src="readme-docs/wireframes/reviews-mobile.png" alt=" A screenshot of the figma reviews page mobile mockup">
+
+<br>
+
+#### **Contact**
+
+<img src="readme-docs/wireframes/contact-desktop.png" alt="A screenshot of the figma contact page desktop mockup">
+<img src="readme-docs/wireframes/contact-tablet.png" alt="A screenshot of the figma contact page tablet mockup">
+<img src="readme-docs/wireframes/contact-mobile.png" alt=" A screenshot of the figma contact page mobile mockup">
+
+<br>
 
 ## Features
 
