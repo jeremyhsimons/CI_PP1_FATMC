@@ -168,16 +168,20 @@ All HTML pages were validated using the [w3c vaildation service](https://validat
 * Fontawesome Characters.
 * The embedded soundcloud player was copied from Soundcloud.com (https://soundcloud.com/andrew-silk-743237145/isnt-she-lovely). 
     - I clicked on the 'share' button underneath the player.
-        <img src="assets/images/readmescreenshots/Screenshot 2022-12-07 120245 CI_PP1_FATMC.png" alt="A screenshot of the soundclound web player with the share button highlighted.">
+
+        <img src="readme-docs/soundcloud-share.png" alt="A screenshot of the soundclound web player with the share button highlighted.">
+
     - I clicked on the 'embed' tab.
 
-        <img src="assets/images/readmescreenshots/Screenshot 2022-12-07 120354 CI_PP1_FATMC img 2.png" alt="A screenshot of the soundclound share modal with the embed tab highlighted.">
+        <img src="readme-docs/soundcloud-embed.png" alt="A screenshot of the soundclound share modal with the embed tab highlighted.">
 
     - I copy/pasted the iframe element provided and pasted into my own code.
 
-        <img src="assets/images/readmescreenshots/Screenshot 2022-12-07 120452 CI_PP1_FATMC img 3.png" alt="A screenshot of the soundclound share modal with the iframe code snippet highlighted.">
+        <img src="readme-docs/soundcloud-iframe.png" alt="A screenshot of the soundclound share modal with the iframe code snippet highlighted.">
     
-    - I deleted the allow="autoplay" attribute in the iframe element, and added aria labels to the extra soundcloud links that appear in the code.
+    - I deleted the allow="autoplay" attributes as well as the obsolete inline CSS in the iframe element, and added aria labels to the extra soundcloud links that appear in the code.
+
+    - I also moved the inline CSS in the anchor elements nested in the iframe to the style.css file.
 
 
 
