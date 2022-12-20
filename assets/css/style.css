@@ -150,6 +150,7 @@ h1, h2 {
 #enter-site-button > a:hover{
     color: #FFDB58;
     background-color: #563D4D;
+    border: 1px solid #FFDB58;
 }
 
 #enter-site-button > a > p {
