@@ -160,7 +160,9 @@ All HTML pages were validated using the [w3c vaildation service](https://validat
 
 
 ## Credits
-* Thanks to my Mentor Mo Shami for his advice and encouragement throughout this project.
+* Thanks to my Mentor Mo Shami for his feedback, advice and encouragement throughout this project.
+* Thanks to the wonderful CI slack community for helping me troubleshoot various bugs.
+* Thanks to the CI London community, Namely Harry Dhillon, Ben Dawson, and Richard Lovett for making me feel welcome at code institute and for offering to help with fixing code issues. 
 ### 3rd party code used
 * Google Fonts.
 * Fontawesome Characters.
