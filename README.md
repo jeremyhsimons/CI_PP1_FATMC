@@ -152,6 +152,26 @@ All HTML pages were validated using the [w3c vaildation service](https://validat
     <img src="readme-docs/validation/homepage-html-valid.png">
 </details><br>
 
+<details>
+    <summary>About page</summary>
+    <img src="readme-docs/validation/homepage-html-valid.png">
+</details><br>
+
+<details>
+    <summary>Media page</summary>
+    <img src="readme-docs/validation/homepage-html-valid.png">
+</details><br>
+
+<details>
+    <summary>Reviews page</summary>
+    <img src="readme-docs/validation/homepage-html-valid.png">
+</details><br>
+
+<details>
+    <summary>Contact page</summary>
+    <img src="readme-docs/validation/homepage-html-valid.png">
+</details><br>
+
 #### **CSS**
 #### **Accessibility**
 #### **Performance**
