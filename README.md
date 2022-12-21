@@ -134,6 +134,7 @@ The wireframes below were created using [figma](https://www.figma.com/). The lay
     <img src="readme-docs/wireframes/homepage1-tablet.png" alt="A screenshot of the figma homepage tablet mockup">
     <img src="readme-docs/wireframes/homepage1-mobile.png" alt=" A screenshot of the figma homepage mobile mockup">
 </details>
+<br>
 
 <details>
     <summary>Homepage (lower)</summary>
@@ -183,20 +184,22 @@ The wireframes below were created using [figma](https://www.figma.com/). The lay
 </details>
 <br>
 
+#### **Thanks/form submit**
 <details>
     <summary>Thanks/form submit page</summary>
         <summary>Contact</summary>
         <img src="readme-docs/wireframes/thanks-desktop.png" alt="A screenshot of the figma thanks page desktop mockup">
         <img src="readme-docs/wireframes/thanks-tablet.png" alt="A screenshot of the figma thanks page tablet mockup">
         <img src="readme-docs/wireframes/thanks-mobile.png" alt=" A screenshot of the figma thanks page mobile mockup">
-</details>
+</details><br>
 
+#### **404**
 <details>
     <summary>404 page</summary>
     <img src="readme-docs/wireframes/404-desktop.png" alt="A screenshot of the figma 404 page desktop mockup">
     <img src="readme-docs/wireframes/404-tablet.png" alt="A screenshot of the figma 404 page tablet mockup">
     <img src="readme-docs/wireframes/404-mobile.png" alt=" A screenshot of the figma 404 page mobile mockup">
-</details>
+</details><br>
 
 ## Features
 The website has 7 pages and the features of each page are listed below:
