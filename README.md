@@ -1,5 +1,5 @@
 # **Forster and the Mustard Cutters**
-developed by Jeremy Simons
+developed by Jeremy Simons (Saxophonist in FATMC)
 
 ## Introduction
 Having a strong online presence is a must for any serious musician in the 21st century. As well as generating social media followings, many musicians rely on sleek and stylish websites to act as a one-stop shop for any professional or business interaction they might have. SiteBuilderReport has listed some of the most effective [Websites](https://www.sitebuilderreport.com/inspiration/musician-website-examples?a=ga&keyword=musician%20websites&ad=574357467827&gclid=CjwKCAiApvebBhAvEiwAe7mHSDz1iMLpK8_tTCcjodhHX_uALxVNPRLPNiTwbmQ1u95UPJYPdK6PIhoCHvYQAvD_BwE) used by popular musicians today and common features include:
@@ -115,7 +115,7 @@ The following is a screenshot of the colour scheme chosen however, due to access
 
 The wireframes below were created using [figma](https://www.figma.com/). The layout for each of the pages has been designed to suit mobile, tablet, and desktop devices.
 
-#### **Homepage**
+#### **Home page**
 
 <img src="readme-docs/wireframes/homepage1-desktop.png" alt="A screenshot of the figma homepage desktop mockup">
 <img src="readme-docs/wireframes/homepage1-tablet.png" alt="A screenshot of the figma homepage tablet mockup">
@@ -180,7 +180,6 @@ HTML, CSS
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse) within Chrome's Developer Tools was used to test the website's performance. 
 * The W3 validators for [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) were used to test the website's code.
 * The WebAIM [WAVE](https://wave.webaim.org/) tool was used to test accessibility.
-
 
 ## Deployment & Local Development
 
@@ -288,12 +287,14 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
 ### Testing user stories
 ### Bugs
-
-
+### Known Bugs
 ## Credits
 * Thanks to my Mentor Mo Shami for his feedback, advice and encouragement throughout this project.
-* Thanks to the wonderful CI slack community for helping me troubleshoot various bugs.
-* Thanks to the CI London community, Namely Harry Dhillon, Ben Dawson, and Richard Lovett for making me feel welcome at code institute and for offering to help with fixing code issues. 
+* Thanks to the wonderful CI slack community for helping me troubleshoot various bugs, as well as for help with creating a form submission thanks page.
+* Thanks to the CI London community, Namely Harry Dhillon, Ben Dawson, and Richard Lovett for making me feel welcome at code institute and for offering to help with fixing code issues.
+
+* The 404 page was created with the help of GitHub's [instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site) on how to create a custom 404 page.
+
 ### 3rd party code used
 * Google Fonts.
 * Fontawesome Characters.
@@ -314,9 +315,9 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
     - I also moved the inline CSS in the anchor elements nested in the iframe to the style.css file.
 
-
-
-
 ### Media
-* Most images were sourced from the band's facebook page with permission from the page owner. Some were sent to me directly by band members (again with their permission) via private messaging on WhatsApp.
+* Most images were sourced from the band's facebook page with permission from the page owner. Some were sent to me directly by band members (again with their permission) via private messaging on WhatsApp. 
+* The following images (which are not of the band) were found:
+    1. Durham Castle at night time: [Wikimedia](https://commons.wikimedia.org/wiki/File:The_Keep_and_Gatehouse_of_Durham_Castle_at_night.jpg )
+    1. Durham Cathedral at night time: [Branipick](https://places.branipick.com/durham-cathedral-last-night-in-the-royal-colour/)
 * The video which appears in the media page was also sent to me directly by one of the band members and is used on this site with permission.
