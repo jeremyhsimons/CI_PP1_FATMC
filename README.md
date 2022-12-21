@@ -652,8 +652,7 @@ The performance of the website was tested using Lighthouse within Chrome develop
     <img src="readme-docs/testing-user-stories/userstory-7-part-1.png" alt="Screen shot of book now button being clicked."><br>
     <p>Get directed to the contact page.</p>
     <img src="readme-docs/testing-user-stories/userstory-3-part-1.png" alt="Screen shot of contact form."><br>
-</details>
-<br>
+</details><br>
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
@@ -669,8 +668,7 @@ The performance of the website was tested using Lighthouse within Chrome develop
     <img src="readme-docs/testing-user-stories/userstory-8-part-3.png" alt="Screen shot of soundcloud icon being clicked."><br>
         <p>Soundcloud opens in a new tab.</p>
     <img src="readme-docs/testing-user-stories/userstory-8-part-4.png" alt="Screen shot of soundcloud page opening in another tab."><br>
-</details>
-<br>
+</details><br>
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
@@ -682,8 +680,7 @@ The performance of the website was tested using Lighthouse within Chrome develop
     <img src="readme-docs/testing-user-stories/userstory-9-part-1.png" alt="Screen shot of home page open in firefox"><br>
     <p>Site loading in Edge</p>
     <img src="readme-docs/testing-user-stories/userstory-9-part-2.png" alt="Screen shot of home page open in microsoft edge"><br>
-</details>
-<br>
+</details><br>
 
 #### **Site owner/band member**
 
@@ -699,8 +696,7 @@ The performance of the website was tested using Lighthouse within Chrome develop
     <img src="readme-docs/testing-user-stories/userstory-1-part-5.png" alt="Screen shot of reviews page header"><br>
     <p>Scroll down and read reviews from other customers.</p>
     <img src="readme-docs/testing-user-stories/userstory-1-part-6.png" alt="Screen shot of reviews page content."><br>
-</details>
-<br>
+</details><br>
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
@@ -714,7 +710,7 @@ The performance of the website was tested using Lighthouse within Chrome develop
     <img src="readme-docs/testing-user-stories/userstory-4-part-2.png" alt="Screen shot of contact form submit button being clicked."><br>
     <p>Get directed to the thanks message/form submission confirmation</p>
     <img src="readme-docs/testing-user-stories/userstory-4-part-3.png" alt="Screen shot of thanks page."><br>
-</details>
+</details><br>
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
