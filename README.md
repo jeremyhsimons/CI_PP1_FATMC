@@ -170,7 +170,39 @@ The website has 6 pages and the features of each page are listed below:
 
 <details>
     <summary>Home page</summary>
-    
+    <p>The home page consists of a landing page with a hero image of the band and an 'enter site' button to scroll down to the home page navigation section. This immediately introduces the user to the band and their branding and is a <a href="https://www.sitebuilderreport.com/inspiration/musician-website-examples?a=ga&keyword=musician%20websites&ad=574357467827&gclid=CjwKCAiApvebBhAvEiwAe7mHSDz1iMLpK8_tTCcjodhHX_uALxVNPRLPNiTwbmQ1u95UPJYPdK6PIhoCHvYQAvD_BwE" target="_blank" aria-label="a link to article from the introduction about musicians sites. Opens in a new tab">common feature</a> of artist sites. There is also a footer linking the user to the band's social media pages.</p>
+    <ul>
+        <li>
+            <p>Landing page with 'enter site' button to prompt user to access navigation to other pages.</p>
+            <img src="readme-docs/features/landing-page.png" alt="A screenshot of the website's landing page">
+        </li>
+        <li>
+            <p>Home navigation bar to direct user to other pages in the site</p>
+            <img src="readme-docs/features/home-navigation-desktop.png" alt="A screenshot of the home page navigation bar">
+        </li>
+        <li>
+            <p>Site footer with links to the band's social media site.</p>
+            <img src="readme-docs/features/site-footer.png" alt="A screenshot of the website's footer">
+        </li>
+    </ul>
+
+<details>
+    <summary>About page</summary>
+    <p></p>
+    <ul>
+        <li>
+            <p>Landing page with 'enter site' button to prompt user to access navigation to other pages.</p>
+            <img>
+        </li>
+        <li>
+            <p>Home navigation bar to direct user to other pages in the site</p>
+            <img>
+        </li>
+        <li>
+            <p>Site footer with links to the band's social media site.</p>
+        </li>
+    </ul>
+
 </details><br>
 
 ## Technologies Used
