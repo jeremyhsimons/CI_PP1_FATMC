@@ -544,26 +544,38 @@ The performance of the website was tested using Lighthouse within Chrome develop
 |1. Easily access information about the band.| Navbar |Starting at home page navigate to about page and reviews page. |Find and access these pages with no problems, easily read information there. | Works as expected. |
 
 <details>
-<summary>Screenshots</summary>
-
+    <summary>Screenshots</summary>
+    <p>Starting at home page navbar, click on 'about'</p>
+    <img src="readme-docs/testing-user-stories/userstory-1-part-1.png" alt="Screen shot of home page nav bar with about clicked"><br>
+    <p>get directed to about page.</p>
+    <img src="readme-docs/testing-user-stories/userstory-1-part-2.png" alt="Screen shot of about page header"><br>
+    <p>Scroll down to view biographies of band.</p>
+    <img src="readme-docs/testing-user-stories/userstory-1-part-3.png" alt="Screen shot of biographies and band profile pictures on about page."><br>
+    <p>Scroll back up to navbar and click on reviews.</p>
+    <img src="readme-docs/testing-user-stories/userstory-1-part-4.png" alt="Screen shot of about page nav bar with reviews clicked"><br>
+    <p>get directed to the reviews page.</p>
+    <img src="readme-docs/testing-user-stories/userstory-1-part-5.png" alt="Screen shot of reviews page "><br>
+    <p>Scroll down and view reviews information.</p>
+    <img src="readme-docs/testing-user-stories/userstory-1-part-6.png" alt="Screen shot of home page nav bar with about clickec"><br>
 </details>
+<br>
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
 |2. See pictures and media of the band playing. | Video and soundcloud elements. | Click play on the video and on the soundcloud player, and adjust controls. | Video and audio to play as expected, controls to navigate/adjust volume present.| Works as expected. |
 
 <details>
-<summary>Screenshots</summary>
-<p>Start at home page nav bar and click media option</p>
-<img src="readme-docs/testing-user-stories/userstory-2-part-1.png" alt="Screen shot of home page nav bar"><br>
-<p>Scroll down media page to video section</p>
-<img src="readme-docs/testing-user-stories/userstory-2-part-2.png" alt="Screen shot of media page video section"><br>
-<p>Click play button on video element</p>
-<img src="readme-docs/testing-user-stories/userstory-2-part-3.png" alt="Screen shot of video element playing"><br>
-<p>Scroll down to soundcloud section</p>
-<img src="readme-docs/testing-user-stories/userstory-2-part-4.png" alt="Screen shot of soundcloud section"><br>
-<p>Click play button on soundcloud element and control playback.</p>
-<img src="readme-docs/testing-user-stories/userstory-2-part-5.png" alt="Screen shot of soundcloud element playing correctly."><br>
+    <summary>Screenshots</summary>
+    <p>Start at home page nav bar and click media option</p>
+    <img src="readme-docs/testing-user-stories/userstory-2-part-1.png" alt="Screen shot of home page nav bar"><br>
+    <p>Scroll down media page to video section</p>
+    <img src="readme-docs/testing-user-stories/userstory-2-part-2.png" alt="Screen shot of media page video section"><br>
+    <p>Click play button on video element</p>
+    <img src="readme-docs/testing-user-stories/userstory-2-part-3.png" alt="Screen shot of video element playing"><br>
+    <p>Scroll down to soundcloud section</p>
+    <img src="readme-docs/testing-user-stories/userstory-2-part-4.png" alt="Screen shot of soundcloud section"><br>
+    <p>Click play button on soundcloud element and control playback.</p>
+    <img src="readme-docs/testing-user-stories/userstory-2-part-5.png" alt="Screen shot of soundcloud element playing correctly."><br>
 </details>
 <br>
 
@@ -572,12 +584,12 @@ The performance of the website was tested using Lighthouse within Chrome develop
 |3. Easily contact the band.|Contact Form | Fill out the contact form with required information. | That the user can put information in all the fields | Works as expected. |
 
 <details>
-<summary>Screenshots</summary>
-<p>Contact form and all fields empty</p>
-<img src="readme-docs/testing-user-stories/userstory-3-part-1.png" alt="Screen shot of contact form."><br>
-Contact form and all fields accepting the correct information.
-<img src="readme-docs/testing-user-stories/userstory-4-part-1.png" alt="Screen shot of contact form fully filled out."><br>
-<p>See below for successful form submission.</p>
+    <summary>Screenshots</summary>
+    <p>Contact form and all fields empty</p>
+    <img src="readme-docs/testing-user-stories/userstory-3-part-1.png" alt="Screen shot of contact form."><br>
+    Contact form and all fields accepting the correct information.
+    <img src="readme-docs/testing-user-stories/userstory-4-part-1.png" alt="Screen shot of contact form fully filled out."><br>
+    <p>See below for successful form submission.</p>
 </details><br>
 
 |User story|Feature|Test|Expected Result|Actual Result|
@@ -585,13 +597,13 @@ Contact form and all fields accepting the correct information.
 |4. Get feedback from submitting a form.|Thanks page | Filling in contact form and hitting submit button |To be directed to a page confirming form success. | Works as expected. |
 
 <details>
-<summary>Screenshots</summary>
-<p>Fill out contact form</p>
-<img src="readme-docs/testing-user-stories/userstory-4-part-1.png" alt="Screen shot of contact form fully filled out."><br>
-<p>Click submit button</p>
-<img src="readme-docs/testing-user-stories/userstory-4-part-2.png" alt="Screen shot of contact form submit button being clicked."><br>
-<p>Get directed to the thanks message/form submission confirmation</p>
-<img src="readme-docs/testing-user-stories/userstory-4-part-3.png" alt="Screen shot of thanks page."><br>
+    <summary>Screenshots</summary>
+    <p>Fill out contact form</p>
+    <img src="readme-docs/testing-user-stories/userstory-4-part-1.png" alt="Screen shot of contact form fully filled out."><br>
+    <p>Click submit button</p>
+    <img src="readme-docs/testing-user-stories/userstory-4-part-2.png" alt="Screen shot of contact form submit button being clicked."><br>
+    <p>Get directed to the thanks message/form submission confirmation</p>
+    <img src="readme-docs/testing-user-stories/userstory-4-part-3.png" alt="Screen shot of thanks page."><br>
 </details><br>
 
 |User story|Feature|Test|Expected Result|Actual Result|
@@ -599,15 +611,15 @@ Contact form and all fields accepting the correct information.
 |5. Have a pleasurable experience using the site. | Buttons/navigation | Selecting and hovering over the buttons such as the 'Enter site' button. | For buttons to provide visual feedback that they work. | Work as expected. 'Enter site' button provides smooth animation to navigation section.|
 
 <details>
-<summary>Screenshots</summary>
-<p>Start at home page</p>
-<img src="readme-docs/testing-user-stories/404-part-1.png" alt="Screen shot of home page"><br>
-<p>hover over the enter site button and see the colours change</p>
-<img src="readme-docs/testing-user-stories/userstory-5-part-1.png" alt="Screen shot of home page with enter site button hover/clicked"><br>
-<p>Home page scrolls down smoothly</p>
-<img src="readme-docs/testing-user-stories/userstory-5-part-2.png" alt="Screen shot of home page scrolling down smoothly"><br>
-<p>Scrolling stops at the navigation section</p>
-<img src="readme-docs/testing-user-stories/userstory-5-part-3.png" alt="Screen shot of home page navigation section."><br>
+    <summary>Screenshots</summary>
+    <p>Start at home page</p>
+    <img src="readme-docs/testing-user-stories/404-part-1.png" alt="Screen shot of home page"><br>
+    <p>hover over the enter site button and see the colours change</p>
+    <img src="readme-docs/testing-user-stories/userstory-5-part-1.png" alt="Screen shot of home page with enter site button hover/clicked"><br>
+    <p>Home page scrolls down smoothly</p>
+    <img src="readme-docs/testing-user-stories/userstory-5-part-2.png" alt="Screen shot of home page scrolling down smoothly"><br>
+    <p>Scrolling stops at the navigation section</p>
+    <img src="readme-docs/testing-user-stories/userstory-5-part-3.png" alt="Screen shot of home page navigation section."><br>
 </details><br>
 
 |User story|Feature|Test|Expected Result|Actual Result|
@@ -615,17 +627,17 @@ Contact form and all fields accepting the correct information.
 |6. Be taken to a 404 page linking back to the site if a page is not found.|404 page |Break the url in the browser's search bar | be taken to a 404 page with access back to main page, rather than default bland html. | Works as expected. |
 
 <details>
-<summary>Screenshots</summary>
-<p>Start at the home page</p>
-<img src="readme-docs/testing-user-stories/404-part-1.png" alt="Screen shot of home page"><br>
-<p>Break the url</p>
-<img src="readme-docs/testing-user-stories/404-part-2.png" alt="Screen shot of home page with broken link"><br>
-<p>Hit enter and get directed to 404 page</p>
-<img src="readme-docs/testing-user-stories/404-part-3.png" alt="Screen shot of 404 page"><br>
-<p>Click the link on 404 page</p>
-<img src="readme-docs/testing-user-stories/404-part-4.png" alt="Screen shot of 404 page with return to homepage button clicked"><br>
-<p>Redirected to home page</p>
-<img src="readme-docs/testing-user-stories/404-part-1.png" alt="Screen shot of home page"><br>
+    <summary>Screenshots</summary>
+    <p>Start at the home page</p>
+    <img src="readme-docs/testing-user-stories/404-part-1.png" alt="Screen shot of home page"><br>
+    <p>Break the url</p>
+    <img src="readme-docs/testing-user-stories/404-part-2.png" alt="Screen shot of home page with broken link"><br>
+    <p>Hit enter and get directed to 404 page</p>
+    <img src="readme-docs/testing-user-stories/404-part-3.png" alt="Screen shot of 404 page"><br>
+    <p>Click the link on 404 page</p>
+    <img src="readme-docs/testing-user-stories/404-part-4.png" alt="Screen shot of 404 page with return to homepage button clicked"><br>
+    <p>Redirected to home page</p>
+    <img src="readme-docs/testing-user-stories/404-part-1.png" alt="Screen shot of home page"><br>
 </details><br>
 
 #### **Returning user**
@@ -641,7 +653,7 @@ Contact form and all fields accepting the correct information.
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
-|6. Easily access social media links. |Footer | From the home page scroll down and click on the social media icons. | To be directed to the correct social media platforms and pages from the links. | Works as expected. |
+|8. Easily access social media links. |Footer | From the home page scroll down and click on the social media icons. | To be directed to the correct social media platforms and pages from the links. | Works as expected. |
 
 <details>
 <summary>Screenshots</summary>
@@ -650,7 +662,7 @@ Contact form and all fields accepting the correct information.
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
-|7. Easily share the site with friends (who may use different browsers).|Site responsive design. | Open up site url in firefox and Edge.| For the site to look and work without breaking. |Works as expected.|
+|9. Easily share the site with friends (who may use different browsers).|Site responsive design. | Open up site url in firefox and Edge.| For the site to look and work without breaking. |Works as expected.|
 
 <details>
 <summary>Screenshots</summary>
@@ -661,7 +673,7 @@ Contact form and all fields accepting the correct information.
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
-|8. Have a place where I can market the band's services to potential clients. | Reviews | From the homepage access the reviews section and easily read reviews from other customers. | Links to reviews page to work, reviews to be readable.|Works as expected.|
+|10. Have a place where I can market the band's services to potential clients. | Reviews | From the homepage access the reviews section and easily read reviews from other customers. | Links to reviews page to work, reviews to be readable.|Works as expected.|
 
 <details>
 <summary>Screenshots</summary>
@@ -670,21 +682,35 @@ Contact form and all fields accepting the correct information.
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
-|9. Have a place where customers can contact the band without having a personal email address visible to users.| Contact form | See 3rd user story.|See 3rd user story.|See 3rd user story.|
+|11. Have a place where customers can contact the band without having a personal email address visible to users.| Contact form | See 3rd user story.|See 3rd user story.|See 3rd user story.|
 
 <details>
-<summary>Screenshots</summary>
-
+    <summary>Screenshots</summary>
+    <p>Fill out contact form</p>
+    <img src="readme-docs/testing-user-stories/userstory-4-part-1.png" alt="Screen shot of contact form fully filled out."><br>
+    <p>Click submit button</p>
+    <img src="readme-docs/testing-user-stories/userstory-4-part-2.png" alt="Screen shot of contact form submit button being clicked."><br>
+    <p>Get directed to the thanks message/form submission confirmation</p>
+    <img src="readme-docs/testing-user-stories/userstory-4-part-3.png" alt="Screen shot of thanks page."><br>
 </details>
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
-|10. Have a place to showcase my band's performance.|Video/Soundcloud|See 2nd user story.|See 2nd user story.|See 2nd user story.|
+|12. Have a place to showcase my band's performance.|Video/Soundcloud|See 2nd user story.|See 2nd user story.|See 2nd user story.|
 
 <details>
-<summary>Screenshots</summary>
-
-</details>
+    <summary>Screenshots</summary>
+    <p>Start at home page nav bar and click media option</p>
+    <img src="readme-docs/testing-user-stories/userstory-2-part-1.png" alt="Screen shot of home page nav bar"><br>
+    <p>Scroll down media page to video section</p>
+    <img src="readme-docs/testing-user-stories/userstory-2-part-2.png" alt="Screen shot of media page video section"><br>
+    <p>Click play button on video element</p>
+    <img src="readme-docs/testing-user-stories/userstory-2-part-3.png" alt="Screen shot of video element playing"><br>
+    <p>Scroll down to soundcloud section</p>
+    <img src="readme-docs/testing-user-stories/userstory-2-part-4.png" alt="Screen shot of soundcloud section"><br>
+    <p>Click play button on soundcloud element and control playback.</p>
+    <img src="readme-docs/testing-user-stories/userstory-2-part-5.png" alt="Screen shot of soundcloud element playing correctly."><br>
+</details><br>
 
 ### Bugs
 
