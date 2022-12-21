@@ -381,7 +381,7 @@ All HTML files were validated using the [w3c vaildation service](https://validat
 
 <details>
     <summary>404 page</summary>
-    <img src="readme-docs/validation/thanks-html-valid.png" alt="A screenshot of the validator confirming the 404 page has no HTML errors">
+    <img src="readme-docs/validation/404-html-valid.png" alt="A screenshot of the validator confirming the 404 page has no HTML errors">
 </details><br>
 
 #### **CSS**
@@ -422,12 +422,12 @@ The site's accessibility was tested using the [WAVE](https://wave.webaim.org/) t
 
 <details>
     <summary>Thanks/form submit page</summary>
-    <img src="readme-docs/validation/contact-access-valid.png" alt="A screenshot of the validator confirming the contact page has no accessibility errors">
+    <img src="readme-docs/validation/thanks-access-valid.png" alt="A screenshot of the validator confirming the thanks page has no accessibility errors">
 </details><br>
 
 <details>
     <summary>404 page</summary>
-    <img src="readme-docs/validation/contact-access-valid.png" alt="A screenshot of the validator confirming the contact page has no accessibility errors">
+    <img src="readme-docs/validation/404-access-valid.png" alt="A screenshot of the validator confirming the 404 page has no accessibility errors">
 </details><br>
 
 #### **Performance**
@@ -460,12 +460,12 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
 <details>
     <summary>Thanks/form submit page</summary>
-    <img src="readme-docs/validation/contact-performance.png" alt="A screenshot of the performance report for the contact page.">
+    <img src="readme-docs/validation/thanks-performance.png" alt="A screenshot of the performance report for the thanks page.">
 </details><br>
 
 <details>
     <summary>404 page</summary>
-    <img src="readme-docs/validation/contact-performance.png" alt="A screenshot of the performance report for the contact page.">
+    <img src="readme-docs/validation/404-performance.png" alt="A screenshot of the performance report for the 404 page.">
 </details><br>
 
 ### Testing user stories
