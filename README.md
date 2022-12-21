@@ -82,22 +82,24 @@ This website must:
 ### User Stories
 
 As a **first-time visitor** I want to:
-* Easily access information about the band so that I can decide if I want to book them for my event.
-* See pictures and access media of the band playing so that I can:
-    1. See if the band are good at playing music.
-    1. Decide if they are the right fit for my event.
-* Easily contact the band so that I can enquire about booking them for my event.
-* Have a pleasureable experience on the band's site so that I can feel confident in booking them.
+1. Easily access information about the band so that I can decide if I want to book them for my event.
+1. See pictures and access media of the band playing so that I can:
+    * See if the band are good at playing music.
+    * Decide if they are the right fit for my event.
+1. Easily contact the band so that I can enquire about booking them for my event.
+1. To get feedback when I have submitted the form data, so I know that it has worked correctly.
+1. Have a pleasureable experience on the band's site so that I can feel confident in booking them.
+1. To be directed to a 404 page that can link me back to the website without hitting the back button if a page is not found.
 
 As a **frequent visitor** I want to:
-* Be able to return to view contact information so that I can make a repeat booking.
-* Easily access social media links so that I can keep up with new media uploads and posts about the band.
-* Easily share the band website or social links with my friends if I want to recommend them for my friend's event.
+1. Be able to return to view contact information so that I can make a repeat booking.
+1.  Easily access social media links so that I can keep up with new media uploads and posts about the band.
+1. Easily share the band website or social links with my friends if I want to recommend them for my friend's event.
 
 As a **website owner** or **band member** I want to:
-* Have an attractive band website so that I can market my services as a musician to prospective clients and present our brand.
-* Have an avenue that prospective clients can reach out to me without attracting spam.
-* Have a place where I can showcase the band’s playing so that I can prove that we are worth hiring.
+1. Have an attractive band website so that I can market my services as a musician to prospective clients and present our brand.
+1. Have an avenue that prospective clients can reach out to me without attracting spam.
+1. Have a place where I can showcase the band’s playing so that I can prove that we are worth hiring.
 
 ## Design
 
@@ -495,11 +497,27 @@ The performance of the website was tested using Lighthouse within Chrome develop
 <details>
 <summary>Screenshots</summary>
 
+|User story|Feature|Test|Expected Result|Actual Result|
+|---|---|---|---|---|
+|4. Get feedback from submitting a form.|Thanks page | | | Works as expected. |
+
+<details>
+<summary>Screenshots</summary>
+
 </details>
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
-|4. Have a pleasurable experience using the site. | Buttons/navigation | Selecting and hovering over the buttons such as the navbar & logo, 'book now' buttons, and 'Enter site' buttons. | For buttons to provide visual feedback that they work. | Work as expected. 'Enter site' button provides smooth animation to navigation section.|
+|5. Have a pleasurable experience using the site. | Buttons/navigation | Selecting and hovering over the buttons such as the navbar & logo, 'book now' buttons, and 'Enter site' buttons. | For buttons to provide visual feedback that they work. | Work as expected. 'Enter site' button provides smooth animation to navigation section.|
+
+<details>
+<summary>Screenshots</summary>
+
+</details>
+
+|User story|Feature|Test|Expected Result|Actual Result|
+|---|---|---|---|---|
+|4. Be taken to a 404 page linking back to the site if a page is not found.|404 page | | | Works as expected. |
 
 <details>
 <summary>Screenshots</summary>
@@ -510,7 +528,7 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
-|5. Return to contact page to make repeat booking.|Navbar |From the home page access the contact page quickly. | Go straight to contact page from link in the home page's navbar | Works as expected.|
+|7. Return to contact page to make repeat booking.|Navbar |From the home page access the contact page quickly. | Go straight to contact page from link in the home page's navbar | Works as expected.|
 
 <details>
 <summary>Screenshots</summary>

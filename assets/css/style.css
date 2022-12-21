@@ -764,6 +764,15 @@ input, textarea {
     color: #EFF3EB;
     width: 200px;
     margin: auto;
+    padding: 10px;
+    font-size: 150%;
+    border-radius: 2%;
+    margin-top: 110px;
+}
+
+#error-message > a:hover {
+    background-color: #563D4D;
+    color: #FFDB58;
 }
 
 /* MEDIA QUERIES */
