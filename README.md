@@ -1,6 +1,9 @@
 # **Forster and the Mustard Cutters**
 developed by Jeremy Simons (Saxophonist in FATMC)
 
+<img src="readme-docs/am-i-responsive.png" alt="a screenshot of the site's home page displayed on various devices, provided by ui.dev/amiresponsive">
+<br>
+
 [Link to live site](https://jeremyhsimons.github.io/CI_PP1_FATMC/)
 
 ## Introduction
@@ -98,9 +101,6 @@ As a **website owner** or **band member** I want to:
 
 ## Design
 
-<img src="readme-docs/am-i-responsive.png" alt="a screenshot of the site's home page displayed on various devices, provided by ui.dev/amiresponsive">
-<br>
-
 ### Design Summary
 The aim of this website's design is to make the customer feel like this band is fun and lighthearted whilst also being professional and easy to work with. This influenced both the colour scheme chosen for the website and the layout which are described below.
 
@@ -125,50 +125,71 @@ The wireframes below were created using [figma](https://www.figma.com/). The lay
 
 #### **Home page**
 
-<img src="readme-docs/wireframes/homepage1-desktop.png" alt="A screenshot of the figma homepage desktop mockup">
-<img src="readme-docs/wireframes/homepage1-tablet.png" alt="A screenshot of the figma homepage tablet mockup">
-<img src="readme-docs/wireframes/homepage1-mobile.png" alt=" A screenshot of the figma homepage mobile mockup">
+<details>
+    <summary>Homepage (upper)</summary>
+    <img src="readme-docs/wireframes/homepage1-desktop.png" alt="A screenshot of the figma homepage desktop mockup">
+    <img src="readme-docs/wireframes/homepage1-tablet.png" alt="A screenshot of the figma homepage tablet mockup">
+    <img src="readme-docs/wireframes/homepage1-mobile.png" alt=" A screenshot of the figma homepage mobile mockup">
+</details>
 
-<img src="readme-docs/wireframes/homepage2-desktop.png" alt="A screenshot of the figma homepage desktop mockup">
-<img src="readme-docs/wireframes/homepage2-tablet.png" alt="A screenshot of the figma homepage tablet mockup">
-<img src="readme-docs/wireframes/homepage2-phone.png" alt=" A screenshot of the figma homepage mobile mockup">
-
+<details>
+    <summary>Homepage (lower)</summary>
+    <img src="readme-docs/wireframes/homepage2-desktop.png" alt="A screenshot of the figma homepage desktop mockup">
+    <img src="readme-docs/wireframes/homepage2-tablet.png" alt="A screenshot of the figma homepage tablet mockup">
+    <img src="readme-docs/wireframes/homepage2-phone.png" alt=" A screenshot of the figma homepage mobile mockup">
+</details>
 <br>
 
 #### **About**
 
-<img src="readme-docs/wireframes/about-desktop.png" alt="A screenshot of the figma about page desktop mockup">
-<img src="readme-docs/wireframes/about-tablet.png" alt="A screenshot of the figma about page tablet mockup">
-<img src="readme-docs/wireframes/about-mobile.png" alt=" A screenshot of the figma about page mobile mockup">
-
+<details>
+    <summary>About</summary>
+    <img src="readme-docs/wireframes/about-desktop.png" alt="A screenshot of the figma about page desktop mockup">
+    <img src="readme-docs/wireframes/about-tablet.png" alt="A screenshot of the figma about page tablet mockup">
+    <img src="readme-docs/wireframes/about-mobile.png" alt=" A screenshot of the figma about page mobile mockup">
+</details>
 <br>
 
 #### **Media**
 
-<img src="readme-docs/wireframes/media-desktop.png" alt="A screenshot of the figma media page desktop mockup">
-<img src="readme-docs/wireframes/media-tablet.png" alt="A screenshot of the figma media page tablet mockup">
-<img src="readme-docs/wireframes/media-mobile.png" alt=" A screenshot of the figma media page mobile mockup">
-
+<details>
+    <summary>Media</summary>
+    <img src="readme-docs/wireframes/media-desktop.png" alt="A screenshot of the figma media page desktop mockup">
+    <img src="readme-docs/wireframes/media-tablet.png" alt="A screenshot of the figma media page tablet mockup">
+    <img src="readme-docs/wireframes/media-mobile.png" alt=" A screenshot of the figma media page mobile mockup">
+</details>
 <br>
 
 #### **Reviews**
 
-<img src="readme-docs/wireframes/reviews-desktop.png" alt="A screenshot of the figma reviews page desktop mockup">
-<img src="readme-docs/wireframes/reviews-tablet.png" alt="A screenshot of the figma reviews page tablet mockup">
-<img src="readme-docs/wireframes/reviews-mobile.png" alt=" A screenshot of the figma reviews page mobile mockup">
-
+<details>
+    <summary>Reviews</summary>
+    <img src="readme-docs/wireframes/reviews-desktop.png" alt="A screenshot of the figma reviews page desktop mockup">
+    <img src="readme-docs/wireframes/reviews-tablet.png" alt="A screenshot of the figma reviews page tablet mockup">
+    <img src="readme-docs/wireframes/reviews-mobile.png" alt=" A screenshot of the figma reviews page mobile mockup">
+</details>
 <br>
 
 #### **Contact**
 
-<img src="readme-docs/wireframes/contact-desktop.png" alt="A screenshot of the figma contact page desktop mockup">
-<img src="readme-docs/wireframes/contact-tablet.png" alt="A screenshot of the figma contact page tablet mockup">
-<img src="readme-docs/wireframes/contact-mobile.png" alt=" A screenshot of the figma contact page mobile mockup">
-
+<details>
+    <summary>Contact</summary>
+    <img src="readme-docs/wireframes/contact-desktop.png" alt="A screenshot of the figma contact page desktop mockup">
+    <img src="readme-docs/wireframes/contact-tablet.png" alt="A screenshot of the figma contact page tablet mockup">
+    <img src="readme-docs/wireframes/contact-mobile.png" alt=" A screenshot of the figma contact page mobile mockup">
+</details>
 <br>
 
+<details>
+    <summary>Thanks/form submit page</summary>
+</details>
+
+<details>
+    <summary>404 page</summary>
+</details>
+
 ## Features
-The website has 6 pages and the features of each page are listed below:
+The website has 7 pages and the features of each page are listed below:
 
 <details>
     <summary>Home page</summary>
