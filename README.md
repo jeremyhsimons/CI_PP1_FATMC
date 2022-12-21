@@ -1,6 +1,8 @@
 # **Forster and the Mustard Cutters**
 developed by Jeremy Simons (Saxophonist in FATMC)
 
+[Link to live site](https://jeremyhsimons.github.io/CI_PP1_FATMC/)
+
 ## Introduction
 Having a strong online presence is a must for any serious musician in the 21st century. As well as generating social media followings, many musicians rely on sleek and stylish websites to act as a one-stop shop for any professional or business interaction they might have. SiteBuilderReport has listed some of the most effective [Websites](https://www.sitebuilderreport.com/inspiration/musician-website-examples?a=ga&keyword=musician%20websites&ad=574357467827&gclid=CjwKCAiApvebBhAvEiwAe7mHSDz1iMLpK8_tTCcjodhHX_uALxVNPRLPNiTwbmQ1u95UPJYPdK6PIhoCHvYQAvD_BwE) used by popular musicians today and common features include:
 * Links to social media accounts.
