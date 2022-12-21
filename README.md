@@ -185,24 +185,85 @@ The website has 6 pages and the features of each page are listed below:
             <img src="readme-docs/features/site-footer.png" alt="A screenshot of the website's footer">
         </li>
     </ul>
+</details><br>
 
 <details>
     <summary>About page</summary>
-    <p></p>
+    <p>The about page contains a short introduction to the band and a friendly photo of all the band members together at a recent performance. It also contains some silly and humourous biographies of the band members. These features help the user to get to know the band better and help the band market their brand to potential clients.</p>
     <ul>
         <li>
-            <p>Landing page with 'enter site' button to prompt user to access navigation to other pages.</p>
-            <img>
+            <p>The navbar and logo that appears on all pages of the site except home page.</p>
+            <img src="readme-docs/features/site-navbar.png" alt="A screenshot of the navbar of the about page and subsequent pages.">
         </li>
         <li>
-            <p>Home navigation bar to direct user to other pages in the site</p>
-            <img>
+            <p>A short introduction to the band.</p>
+            <img src="readme-docs/features/about-intro.png" alt="A screenshot of the header of the about page.">
         </li>
         <li>
-            <p>Site footer with links to the band's social media site.</p>
+            <p>Short biographies and profile photos of the band members.</p>
+            <img src="readme-docs/features/about-bios.png" alt="A screenshot of the biographies section of the about page.">
+        </li>
+        <li>
+            <p>A button at the bottom of the page that links directly to the contact page (i.e. a call to action). This feature also appears in the media and review pages.</p>
+            <img src="readme-docs/features/book-now-button.png" alt="A screenshot of the book now button at the bottom of the about page.">
         </li>
     </ul>
+</details><br>
 
+<details>
+    <summary>Media page</summary>
+    <p>The media page contains a short summary of the style of music the band plays, a video of the band performing, and a soundcloud player of the band performing. This enables the band to showcase their music and the user to sample the band's services.</p>
+    <ul>
+        <li>
+            <p>A short introduction to the band's musical repertoire</p>
+            <img src="readme-docs/features/media-repertoire.png" alt="A screenshot of the header of the media page.">
+        </li>
+        <li>
+            <p>A video of the band playing at a live event.</p>
+            <img src="readme-docs/features/media-video-of-band.png" alt="A screenshot of the video section of the media page.">
+        </li>
+        <li>
+            <p>An embedded soundcloud player that plays a recording of a live performance.</p>
+            <img src="readme-docs/features/media-soundcloud.png" alt="A screenshot of the soundcloud section of the media page.">
+        </li>
+    </ul>
+</details><br>
+
+<details>
+    <summary>Reviews page</summary>
+    <p>The reviews page contains a series of testimonials from previous customers about the band's services. It also contains more images of the band performing. These features help the band to persuade customers to hire them, and helps users feel more confident that the band is worth hiring.</p>
+    <ul>
+        <li>
+            <p>A series of short testimonials and pictures from recent events.</p>
+            <img src="readme-docs/features/reviews-and-image-gallery.png" alt="A screenshot of the reviews and pictures in the reviews page.">
+        </li>
+    </ul>
+</details><br>
+
+<details>
+    <summary>Contact page</summary>
+    <p>The contact page is where the user is directed if they follow the normal nav controls or click the 'book now' button at the bottom of the reviews/media/about pages. It features a contact form with a submit and reset button. This enables the user to feel that they can easily contact the band. It also provides the band with an official easy-to-keep-track-of method to get bookings.</p>
+    <ul>
+        <li>
+            <p>The form on the website's contact page.</p>
+            <img src="readme-docs/features/contact-form.png" alt="A screenshot of the contact form on the contact page.">
+        </li>
+        <li>
+            <p>The submit and reset button at the bottom of the contact form.</p>
+            <img src="readme-docs/features/book-or-reset-buttons.png" alt="A screenshot of the contact form's reset and submit buttons.">
+        </li>
+    </ul>
+</details><br>
+
+<details>
+    <summary>Thanks/form submit page</summary>
+    <p>The thanks page is where the user is directed if they successfully complete all form fields and submit their booking. It is simple and features a thanks message and a promise that the band will get back to them. The time-bound message helps the user to feel confident about when to expect a response, and gives the band/site owner time to respond appropriately.</p>
+    <ul>
+        <li>
+            <p>Thanks message that appears upon form submission.</p>
+            <img src="readme-docs/features/form-submit-message.png" alt="A screenshot of the thanks page.">
+        </li>
+    </ul>
 </details><br>
 
 ## Technologies Used
