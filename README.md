@@ -550,7 +550,7 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
-|2. See pictures and media of the band playing. | Video and soundcloud elements. | Click play on the video and on the soundcloud player, and adjust volume. | Video and audio to play as expected, controls to navigate/adjust volume present.| Works as expected. |
+|2. See pictures and media of the band playing. | Video and soundcloud elements. | Click play on the video and on the soundcloud player, and adjust controls. | Video and audio to play as expected, controls to navigate/adjust volume present.| Works as expected. |
 
 <details>
 <summary>Screenshots</summary>
@@ -559,23 +559,14 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
-|3. Easily contact the band.|Contact Form | Fill out the contact form with required information and click submit. | To get some feedback that the form data has been submitted to the band. | Works as expected. |
+|3. Easily contact the band.|Contact Form | Fill out the contact form with required information. | That the user can put information in all the fields | Works as expected. |
 
 <details>
 <summary>Screenshots</summary>
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
-|4. Get feedback from submitting a form.|Thanks page | | | Works as expected. |
-
-<details>
-<summary>Screenshots</summary>
-
-</details>
-
-|User story|Feature|Test|Expected Result|Actual Result|
-|---|---|---|---|---|
-|5. Have a pleasurable experience using the site. | Buttons/navigation | Selecting and hovering over the buttons such as the navbar & logo, 'book now' buttons, and 'Enter site' buttons. | For buttons to provide visual feedback that they work. | Work as expected. 'Enter site' button provides smooth animation to navigation section.|
+|4. Get feedback from submitting a form.|Thanks page | Filling in contact form and hitting submit button |To be directed to a page confirming form success. | Works as expected. |
 
 <details>
 <summary>Screenshots</summary>
@@ -584,7 +575,16 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
-|4. Be taken to a 404 page linking back to the site if a page is not found.|404 page | | | Works as expected. |
+|5. Have a pleasurable experience using the site. | Buttons/navigation | Selecting and hovering over the buttons such as the 'Enter site' button. | For buttons to provide visual feedback that they work. | Work as expected. 'Enter site' button provides smooth animation to navigation section.|
+
+<details>
+<summary>Screenshots</summary>
+
+</details>
+
+|User story|Feature|Test|Expected Result|Actual Result|
+|---|---|---|---|---|
+|6. Be taken to a 404 page linking back to the site if a page is not found.|404 page |Break the url in the browser's search bar | be taken to a 404 page with access back to main page, rather than default bland html. | Works as expected. |
 
 <details>
 <summary>Screenshots</summary>
