@@ -647,9 +647,13 @@ The performance of the website was tested using Lighthouse within Chrome develop
 |7. Return to contact page to make repeat booking.|Navbar |From the about page access the contact page quickly. | Go straight to contact page from link at the bottom of about page | Works as expected.|
 
 <details>
-<summary>Screenshots</summary>
-
+    <summary>Screenshots</summary>
+    <p>Starting on about page, scroll down and click the 'book now' button.</p>
+    <img src="readme-docs/testing-user-stories/userstory-7-part-1.png" alt="Screen shot of book now button being clicked."><br>
+    <p>Get directed to the contact page.</p>
+    <img src="readme-docs/testing-user-stories/userstory-3-part-1.png" alt="Screen shot of contact form."><br>
 </details>
+<br>
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
@@ -657,17 +661,29 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
 <details>
 <summary>Screenshots</summary>
-
+    <p>Starting on home page, scroll down to footer and click on Facebook icon.</p>
+    <img src="readme-docs/testing-user-stories/userstory-8-part-1.png" alt="Screen shot of facebook icon being clicked."><br>
+        <p>Facebook opens in a new tab.</p>
+    <img src="readme-docs/testing-user-stories/userstory-8-part-2.png" alt="Screen shot of facebook page opening in another tab.."><br>
+        <p>Going back to the website's footer, click on the soundcloud icon</p>
+    <img src="readme-docs/testing-user-stories/userstory-8-part-3.png" alt="Screen shot of soundcloud icon being clicked."><br>
+        <p>Soundcloud opens in a new tab.</p>
+    <img src="readme-docs/testing-user-stories/userstory-8-part-4.png" alt="Screen shot of soundcloud page opening in another tab."><br>
 </details>
+<br>
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
 |9. Easily share the site with friends (who may use different browsers).|Site responsive design. | Open up site url in firefox and Edge.| For the site to look and work without breaking. |Works as expected.|
 
 <details>
-<summary>Screenshots</summary>
-
+    <summary>Screenshots</summary>
+    <p>Site loading in Firefox</p>
+    <img src="readme-docs/testing-user-stories/userstory-9-part-1.png" alt="Screen shot of home page open in firefox"><br>
+    <p>Site loading in Edge</p>
+    <img src="readme-docs/testing-user-stories/userstory-9-part-2.png" alt="Screen shot of home page open in microsoft edge"><br>
 </details>
+<br>
 
 #### **Site owner/band member**
 
@@ -676,9 +692,15 @@ The performance of the website was tested using Lighthouse within Chrome develop
 |10. Have a place where I can market the band's services to potential clients. | Reviews | From the homepage access the reviews section and easily read reviews from other customers. | Links to reviews page to work, reviews to be readable.|Works as expected.|
 
 <details>
-<summary>Screenshots</summary>
-
+    <summary>Screenshots</summary>
+    <p>Starting at home page nav bar, click on reviews option</p>
+    <img src="readme-docs/testing-user-stories/userstory-10-part-1.png" alt="Screen shot of home page nav bar"><br>
+    <p>Get directed to reviews page</p>
+    <img src="readme-docs/testing-user-stories/userstory-1-part-5.png" alt="Screen shot of reviews page header"><br>
+    <p>Scroll down and read reviews from other customers.</p>
+    <img src="readme-docs/testing-user-stories/userstory-1-part-6.png" alt="Screen shot of reviews page content."><br>
 </details>
+<br>
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
