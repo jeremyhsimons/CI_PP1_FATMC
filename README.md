@@ -93,11 +93,12 @@ As a **first-time visitor** I want to:
 
 As a **frequent visitor** I want to:<br>
 7. Be able to return to view contact information so that I can make a repeat booking.<br>
-8.  Easily access social media links so that I can keep up with new media uploads and posts about the band.<br>
+8.  Easily access social media links so that I can keep up with new media uploads and posts about   the band.<br>
 9. Easily share the band website or social links with my friends if I want to recommend them for my friend's event.
 
 As a **website owner** or **band member** I want to:<br>
-10. Have an attractive band website so that I can market my services as a musician to prospective clients and present our brand.<br>
+10. Have an attractive band website so that I can market my services as a musician to prospective 
+    clients and present our brand.<br>
 11. Have an avenue that prospective clients can reach out to me without attracting spam.<br>
 12. Have a place where I can showcase the band’s playing so that I can prove that we are worth hiring.
 
@@ -206,14 +207,23 @@ The website has 7 pages and the features of each page are listed below:
     <ul>
         <li>
             <p>Landing page with 'enter site' button to prompt user to access navigation to other pages.</p>
+        </li>
+        <li>
+            <p>User story covered: 5, 10 </p>
             <img src="readme-docs/features/landing-page.png" alt="A screenshot of the website's landing page">
         </li>
         <li>
             <p>Home navigation bar to direct user to other pages in the site</p>
+        </li>
+        <li>
+            <p>User story covered: 1, 5, 7 </p>
             <img src="readme-docs/features/home-navigation-desktop.png" alt="A screenshot of the home page navigation bar">
         </li>
         <li>
             <p>Site footer with links to the band's social media site.</p>
+        </li>
+        <li>
+            <p>User story covered: 8 </p>
             <img src="readme-docs/features/site-footer.png" alt="A screenshot of the website's footer">
         </li>
     </ul>
@@ -225,18 +235,30 @@ The website has 7 pages and the features of each page are listed below:
     <ul>
         <li>
             <p>The navbar and logo that appears on all pages of the site except home page.</p>
+        </li>
+        <li>
+            <p>User story covered: 1, 5 </p>
             <img src="readme-docs/features/site-navbar.png" alt="A screenshot of the navbar of the about page and subsequent pages.">
         </li>
         <li>
             <p>A short introduction to the band.</p>
+        </li>
+        <li>
+            <p>User story covered: 1 </p>
             <img src="readme-docs/features/about-intro.png" alt="A screenshot of the header of the about page.">
         </li>
         <li>
             <p>Short biographies and profile photos of the band members.</p>
+        </li>
+        <li>
+            <p>User story covered: 1, 10 </p>
             <img src="readme-docs/features/about-bios.png" alt="A screenshot of the biographies section of the about page.">
         </li>
         <li>
             <p>A button at the bottom of the page that links directly to the contact page (i.e. a call to action). This feature also appears in the media and review pages.</p>
+        </li>
+        <li>
+            <p>User story covered: 3, 7, 11 </p>
             <img src="readme-docs/features/book-now-button.png" alt="A screenshot of the book now button at the bottom of the about page.">
         </li>
     </ul>
@@ -248,14 +270,23 @@ The website has 7 pages and the features of each page are listed below:
     <ul>
         <li>
             <p>A short introduction to the band's musical repertoire</p>
+        </li>
+        <li>
+            <p>User story covered: 1, 2, 12 </p>
             <img src="readme-docs/features/media-repertoire.png" alt="A screenshot of the header of the media page.">
         </li>
         <li>
             <p>A video of the band playing at a live event.</p>
+        </li>
+        <li>
+            <p>User story covered: 1, 2, 12 </p>
             <img src="readme-docs/features/media-video-of-band.png" alt="A screenshot of the video section of the media page.">
         </li>
         <li>
             <p>An embedded soundcloud player that plays a recording of a live performance.</p>
+        </li>
+        <li>
+            <p>User story covered: 1, 2, 12 </p>
             <img src="readme-docs/features/media-soundcloud.png" alt="A screenshot of the soundcloud section of the media page.">
         </li>
     </ul>
@@ -267,6 +298,9 @@ The website has 7 pages and the features of each page are listed below:
     <ul>
         <li>
             <p>A series of short testimonials and pictures from recent events.</p>
+        </li>
+        <li>
+            <p>User story covered: 1, 2, 10 </p>
             <img src="readme-docs/features/reviews-and-image-gallery.png" alt="A screenshot of the reviews and pictures in the reviews page.">
         </li>
     </ul>
@@ -280,14 +314,14 @@ The website has 7 pages and the features of each page are listed below:
             <p>The form on the website's contact page.</p>
         </li>
         <li>
-            <p>User story covered: 3, </p>
+            <p>User story covered: 3, 11 </p>
             <img src="readme-docs/features/contact-form.png" alt="A screenshot of the contact form on the contact page.">
         </li>
         <li>
             <p>The submit and reset button at the bottom of the contact form.</p>
         </li>
         <li>
-            <p></p>
+            <p>User stories covered: 3, 11</p>
             <img src="readme-docs/features/book-or-reset-buttons.png" alt="A screenshot of the contact form's reset and submit buttons.">
         </li>
     </ul>
@@ -302,6 +336,20 @@ The website has 7 pages and the features of each page are listed below:
         </li>
         <li>
             <p>User story covered: 4.</p>
+            <img src="readme-docs/features/form-submit-message.png" alt="A screenshot of the thanks page.">
+        </li>
+    </ul>
+</details><br>
+
+<details>
+    <summary>404 page</summary>
+    <p>The 404 page is where the user is directed if for whatever reason the site breaks and they cannot access a page as expected. It allows the user to navigate back to the rest of the site without clicking the back button in their browser.</p>
+    <ul>
+        <li>
+            <p>Error message that appears in the event of a broken link or an error in the url in the browser's search bar.</p>
+        </li>
+        <li>
+            <p>User story covered: 6.</p>
             <img src="readme-docs/features/form-submit-message.png" alt="A screenshot of the thanks page.">
         </li>
     </ul>
