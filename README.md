@@ -644,7 +644,7 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
-|7. Return to contact page to make repeat booking.|Navbar |From the home page access the contact page quickly. | Go straight to contact page from link in the home page's navbar | Works as expected.|
+|7. Return to contact page to make repeat booking.|Navbar |From the about page access the contact page quickly. | Go straight to contact page from link at the bottom of about page | Works as expected.|
 
 <details>
 <summary>Screenshots</summary>
