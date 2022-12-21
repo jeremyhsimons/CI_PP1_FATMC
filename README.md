@@ -455,7 +455,7 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
 On Google Chrome on the Huawei PSmart 2019 (EMUI android) device, the drop-down searchbar from the browser causes fixed backgrounds to move up and down occasionally which can be distracting when scrolling down the home page, review page, and contact page. 
 
-Since the bug has a very limited impact on the user's ability to use the site and will only affect a subset of users, this bug was not addressed given the time limitations of the developer for this project.
+Since the bug has an extremely limited impact on the user's ability to use the site and will only affect a subset of users, this bug was not fixed.
 
 ## Credits
 * The 404 page was created with the help of GitHub's [instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site) on how to create a custom 404 page.
