@@ -111,6 +111,12 @@ The following is a screenshot of the colour scheme chosen however, due to access
 
 <img src="readme-docs/color-scheme.png" alt="A screenshot of colormind.io and the colors chosen for the site.">
 
+### Fonts
+The fonts chosen for the website were Anton for headings and Commissioner for the main bodies of text on the website. Each of these were imported using [Google Fonts](https://fonts.google.com/). Sans-serif was chosen as the back-up font - in case these fonts don't load - because of it's clear readability.
+
+### Page layout
+The whole site has a clear, and easy-to-use layout with a logo/home page link in the top left and navigation bar in the top right of the page. Each page has a footer with social media links. Every anchor element that the developer has coded lights up or changes colour when hovered over or tapped to help the user feel that the site responds to their actions.
+
 ### Wireframes
 
 The wireframes below were created using [figma](https://www.figma.com/). The layout for each of the pages has been designed to suit mobile, tablet, and desktop devices.
@@ -160,6 +166,7 @@ The wireframes below were created using [figma](https://www.figma.com/). The lay
 <br>
 
 ## Features
+The website has 6 pages and 
 
 ## Technologies Used
 ### Languages used
@@ -222,6 +229,11 @@ All HTML files were validated using the [w3c vaildation service](https://validat
 <details>
     <summary>Contact page</summary>
     <img src="readme-docs/validation/contact-html-valid.png" alt="A screenshot of the validator confirming the contact page has no HTML errors">
+</details><br>
+
+<details>
+    <summary>Form submit/thanks page</summary>
+    <img src="readme-docs/validation/thanks-html-valid.png" alt="A screenshot of the validator confirming the thanks page has no HTML errors">
 </details><br>
 
 #### **CSS**
