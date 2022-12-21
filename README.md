@@ -465,31 +465,32 @@ Since the bug has an extremely limited impact on the user's ability to use the s
 ### 3rd party code used
 * Google Fonts.
 * Fontawesome Characters.
-* The embedded soundcloud player was copied from Soundcloud.com (https://soundcloud.com/andrew-silk-743237145/isnt-she-lovely). 
-    - I clicked on the 'share' button underneath the player.
+* The embedded soundcloud player was copied from Soundcloud.com (https://soundcloud.com/andrew-silk-743237145/isnt-she-lovely) by the following process:
+
+    - Click on the 'share' button underneath the player.
 
         <img src="readme-docs/soundcloud-share.png" alt="A screenshot of the soundclound web player with the share button highlighted."><br>
 
-    - I clicked on the 'embed' tab.
+    - Click on the 'embed' tab.
 
         <img src="readme-docs/soundcloud-embed.png" alt="A screenshot of the soundclound share modal with the embed tab highlighted."><br>
 
-    - I copy/pasted the iframe element provided and pasted into my own code.
+    - Copy/paste the iframe element provided and paste into one's own code.
 
         <img src="readme-docs/soundcloud-iframe.png" alt="A screenshot of the soundclound share modal with the iframe code snippet highlighted."><br>
     
-    - I deleted the allow="autoplay" attributes as well as the obsolete inline CSS in the iframe element, and added aria labels to the extra soundcloud links that appear in the code.
+    - Delete the allow="autoplay" attributes as well as the obsolete inline CSS in the iframe element, and add aria labels to the extra soundcloud links that appear in the code.
 
-    - I also moved the inline CSS in the anchor elements nested in the iframe to the style.css file.
+    - Move the inline CSS in the anchor elements nested in the iframe to the style.css file.
 
 ### Media
-* Most images were sourced from the band's facebook page with permission from the page owner. Some were sent to me directly by band members (again with their permission) via private messaging on WhatsApp. 
+* Most images were sourced from the band's Facebook page with permission from the page owner. Some were sent to the developer directly by band members (again with their permission) via private messaging on WhatsApp. 
 * The following images (which are not of the band) were found:
     1. Durham Castle at night time: [Wikimedia](https://commons.wikimedia.org/wiki/File:The_Keep_and_Gatehouse_of_Durham_Castle_at_night.jpg )
     1. Durham Cathedral at night time: [Branipick](https://places.branipick.com/durham-cathedral-last-night-in-the-royal-colour/)
-* The video which appears in the media page was also sent to me directly by one of the band members and is used on this site with permission.
+* The video which appears in the media page was also sent to the developer directly by one of the band members and is used on this site with permission.
 
 ### Acknowledgements
 * Thanks to my Mentor Mo Shami for his feedback, advice and encouragement throughout this project.
-* Thanks to the wonderful CI slack community for helping me troubleshoot various bugs, as well as for help with creating a form submission thanks page.
+* Thanks to the wonderful CI slack community for helping me troubleshoot various bugs, as well as for help with creating a form submission/thanks page.
 * Thanks to the CI London Community, Namely Harry Dhillon, Ben Dawson, and Richard Lovett for making me feel welcome at Code Institute and for offering to help with fixing code issues.
