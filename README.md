@@ -91,15 +91,15 @@ As a **first-time visitor** I want to:
 1. Have a pleasureable experience on the band's site so that I can feel confident in booking them.
 1. To be directed to a 404 page that can link me back to the website without hitting the back button if a page is not found.
 
-As a **frequent visitor** I want to:
-1. Be able to return to view contact information so that I can make a repeat booking.
-1.  Easily access social media links so that I can keep up with new media uploads and posts about the band.
-1. Easily share the band website or social links with my friends if I want to recommend them for my friend's event.
+As a **frequent visitor** I want to:<br>
+7. Be able to return to view contact information so that I can make a repeat booking.<br>
+8.  Easily access social media links so that I can keep up with new media uploads and posts about the band.<br>
+9. Easily share the band website or social links with my friends if I want to recommend them for my friend's event.
 
-As a **website owner** or **band member** I want to:
-1. Have an attractive band website so that I can market my services as a musician to prospective clients and present our brand.
-1. Have an avenue that prospective clients can reach out to me without attracting spam.
-1. Have a place where I can showcase the band’s playing so that I can prove that we are worth hiring.
+As a **website owner** or **band member** I want to:<br>
+10. Have an attractive band website so that I can market my services as a musician to prospective clients and present our brand.<br>
+11. Have an avenue that prospective clients can reach out to me without attracting spam.<br>
+12. Have a place where I can showcase the band’s playing so that I can prove that we are worth hiring.
 
 ## Design
 
@@ -278,10 +278,16 @@ The website has 7 pages and the features of each page are listed below:
     <ul>
         <li>
             <p>The form on the website's contact page.</p>
+        </li>
+        <li>
+            <p>User story covered: 3, </p>
             <img src="readme-docs/features/contact-form.png" alt="A screenshot of the contact form on the contact page.">
         </li>
         <li>
             <p>The submit and reset button at the bottom of the contact form.</p>
+        </li>
+        <li>
+            <p></p>
             <img src="readme-docs/features/book-or-reset-buttons.png" alt="A screenshot of the contact form's reset and submit buttons.">
         </li>
     </ul>
@@ -293,6 +299,9 @@ The website has 7 pages and the features of each page are listed below:
     <ul>
         <li>
             <p>Thanks message that appears upon form submission.</p>
+        </li>
+        <li>
+            <p>User story covered: 4.</p>
             <img src="readme-docs/features/form-submit-message.png" alt="A screenshot of the thanks page.">
         </li>
     </ul>
