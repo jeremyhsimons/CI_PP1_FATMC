@@ -554,8 +554,18 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
 <details>
 <summary>Screenshots</summary>
-
+<p>Start at home page nav bar and click media option</p>
+<img src="readme-docs/testing-user-stories/userstory-2-part-1.png" alt="Screen shot of home page nav bar"><br>
+<p>Scroll down media page to video section</p>
+<img src="readme-docs/testing-user-stories/userstory-2-part-2.png" alt="Screen shot of media page video section"><br>
+<p>Click play button on video element</p>
+<img src="readme-docs/testing-user-stories/userstory-2-part-3.png" alt="Screen shot of video element playing"><br>
+<p>Scroll down to soundcloud section</p>
+<img src="readme-docs/testing-user-stories/userstory-2-part-4.png" alt="Screen shot of soundcloud section"><br>
+<p>Click play button on soundcloud element and control playback.</p>
+<img src="readme-docs/testing-user-stories/userstory-2-part-5.png" alt="Screen shot of soundcloud element playing correctly."><br>
 </details>
+<br>
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
@@ -563,6 +573,12 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
 <details>
 <summary>Screenshots</summary>
+<p>Contact form and all fields empty</p>
+<img src="readme-docs/testing-user-stories/userstory-3-part-1.png" alt="Screen shot of contact form."><br>
+Contact form and all fields accepting the correct information.
+<img src="readme-docs/testing-user-stories/userstory-4-part-1.png" alt="Screen shot of contact form fully filled out."><br>
+<p>See below for successful form submission.</p>
+</details><br>
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
@@ -570,8 +586,13 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
 <details>
 <summary>Screenshots</summary>
-
-</details>
+<p>Fill out contact form</p>
+<img src="readme-docs/testing-user-stories/userstory-4-part-1.png" alt="Screen shot of contact form fully filled out."><br>
+<p>Click submit button</p>
+<img src="readme-docs/testing-user-stories/userstory-4-part-2.png" alt="Screen shot of contact form submit button being clicked."><br>
+<p>Get directed to the thanks message/form submission confirmation</p>
+<img src="readme-docs/testing-user-stories/userstory-4-part-3.png" alt="Screen shot of thanks page."><br>
+</details><br>
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
@@ -587,7 +608,7 @@ The performance of the website was tested using Lighthouse within Chrome develop
 <img src="readme-docs/testing-user-stories/userstory-5-part-2.png" alt="Screen shot of home page scrolling down smoothly"><br>
 <p>Scrolling stops at the navigation section</p>
 <img src="readme-docs/testing-user-stories/userstory-5-part-3.png" alt="Screen shot of home page navigation section."><br>
-</details>
+</details><br>
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
@@ -604,9 +625,8 @@ The performance of the website was tested using Lighthouse within Chrome develop
 <p>Click the link on 404 page</p>
 <img src="readme-docs/testing-user-stories/404-part-4.png" alt="Screen shot of 404 page with return to homepage button clicked"><br>
 <p>Redirected to home page</p>
-<img src="readme-docs/testing-user-stories/404-part-1.png" alt="Screen shot of home page">
-
-</details>
+<img src="readme-docs/testing-user-stories/404-part-1.png" alt="Screen shot of home page"><br>
+</details><br>
 
 #### **Returning user**
 
