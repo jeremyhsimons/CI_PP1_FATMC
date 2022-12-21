@@ -165,13 +165,21 @@ The wireframes below were created using [figma](https://www.figma.com/). The lay
 ### Languages used
 HTML, CSS
 
-### Other programs used
-* Wireframes: [figma](https://www.figma.com/)
-* Version control: [Git](https://git-scm.com/)
-* Saving and storing files: [GitHub](https://github.com/)
-* IDE used to write HTML and CSS: [GitPod](https://gitpod.io/)
-* Colour palate generator used in the site's design: [colormind.io](http://colormind.io)
-* Fonts used on the website: [Google Fonts](https://fonts.google.com/)
+### Other tools/websites/libraries used
+* [figma](https://www.figma.com/) was used to create wireframes.
+* [Git](https://git-scm.com/) was used for version control.
+* [GitHub](https://github.com/) was used for saving and storing files.
+* [GitPod](https://gitpod.io/) was the IDE used for writing and editing code.
+* [colormind.io](http://colormind.io) was used to generate the colour palate for the site.
+* [Google Fonts](https://fonts.google.com/) was used for the fonts on the website.
+* [Font Awesome](https://fontawesome.com/) was used to generate social media icons in the site.
+* [Favicon.io](https://favicon.io/) was used to generate the site's favicon.
+* [Soundcloud](https://soundcloud.com/) was used to generate an embedded media player.
+* [amiresponsive]() was used to test the website across different screens and generate the picture in the [Design](#design) section.
+* Google Chrome Developer Tools was used to debug the website.
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse) within Chrome's Developer Tools was used to test the website's performance. 
+* The W3 validators for [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) were used to test the website's code.
+* The WebAIM [WAVE](https://wave.webaim.org/) tool was used to test accessibility.
 
 
 ## Deployment & Local Development
