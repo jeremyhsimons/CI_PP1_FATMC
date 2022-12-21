@@ -749,8 +749,9 @@ Since the bug has an extremely limited impact on the user's ability to use the s
 * The 404 page was created with the help of GitHub's [instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site) on how to create a custom 404 page.
 
 ### 3rd party code used
-* Google Fonts.
-* Fontawesome Characters.
+* [Google Fonts](https://fonts.google.com/) import link appears at the top of style.css.
+* [Fontawesome](https://fontawesome.com/) Characters. Script for this is included at the very bottom of the body element in every html file in the website.
+* [favicon.io](https://favicon.io/) code was used in the head elements to generate favicon, and images are stored in assets/images.
 * The embedded soundcloud player was copied from Soundcloud.com (https://soundcloud.com/andrew-silk-743237145/isnt-she-lovely) by the following process:
 
     - Click on the 'share' button underneath the player.
