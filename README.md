@@ -5,7 +5,7 @@ developed by Jeremy Simons
 Having a strong online presence is a must for any serious musician in the 21st century. As well as generating social media followings, many musicians rely on sleek and stylish websites to act as a one-stop shop for any professional or business interaction they might have. SiteBuilderReport has listed some of the most effective [Websites](https://www.sitebuilderreport.com/inspiration/musician-website-examples?a=ga&keyword=musician%20websites&ad=574357467827&gclid=CjwKCAiApvebBhAvEiwAe7mHSDz1iMLpK8_tTCcjodhHX_uALxVNPRLPNiTwbmQ1u95UPJYPdK6PIhoCHvYQAvD_BwE) used by popular musicians today and common features include:
 * Links to social media accounts.
 * A store for purchasing merchandise.
-* Links or embedded widgets for Listening to and watching the musician or band perform.
+* Links or embedded video for Listening to and watching the musician or band perform.
 * A contact form for general/booking enquiries.
 
 Forster and the Mustard Cutters is a Durham-based function band with lots of experience playing at live events such as parties, conferences, and university balls. They are looking to drum up more interest in their services and get more gigs. This site aims to provide them with a way to showcase their skills in an attractive and professional manner, and make it easy for site visitors to book their services. 
@@ -15,6 +15,8 @@ Forster and the Mustard Cutters is a Durham-based function band with lots of exp
     * [For the user](#for-the-user)
     * [For the site owner](#for-the-site-owner)
 * [User Experience](#user-experience)<br>
+    * [Target audience](#target-audience)
+    * [User requirements](#user-requirements)
     * [User Stories](#user-stories)
 * [Design](#design)
     * [Design Summary](#design-summary)
@@ -49,6 +51,29 @@ Forster and the Mustard Cutters is a Durham-based function band with lots of exp
 1. To entertain visitors to the website.
 
 ## User Experience
+
+### Target audience
+Potential users of the site may include, but are not limited to:
+* Students or student organisations at Durham University planning events.
+* Professional event organisers at the university.
+* Younger couples planning their wedding/party.
+* Local businesses planning a corporate event.
+* Older users planning a significant birthday party/family event.
+
+The potential users could be a very diverse group of people. Therefore it is important that the site is:
+1. Fully responsive because a range of devices could be accessing it.
+1. Free from accessibility issues.
+
+### User requirements
+This website must:
+* Showcase pictures and other media of the band performing.
+* Contain information about the music they play.
+* Contain content to persuade visitors to book the band for a gig.
+* Be easy to navigate to the relevant information.
+* Feature a way to contact the band/a way for the band to receive bookings.
+* Work on multiple devices/screen widths and browsers.
+* Be accessible to users with visual impairment.
+
 ### User Stories
 
 As a **first-time visitor** I want to:
