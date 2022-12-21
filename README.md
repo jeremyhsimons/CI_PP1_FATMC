@@ -287,12 +287,21 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
 ### Testing user stories
 ### Bugs
-### Known Bugs
-## Credits
-* Thanks to my Mentor Mo Shami for his feedback, advice and encouragement throughout this project.
-* Thanks to the wonderful CI slack community for helping me troubleshoot various bugs, as well as for help with creating a form submission thanks page.
-* Thanks to the CI London community, Namely Harry Dhillon, Ben Dawson, and Richard Lovett for making me feel welcome at code institute and for offering to help with fixing code issues.
 
+| Bug Description  | Action Taken to Fix  |
+|---|---|
+| When homepage is viewed on mobile screen flipped sideways, the logo and quote spill into the nav element. | Add a min-heigh style rule to the hero image element. |
+| When viewing home page on a sideways-mobile screen, the homepage nav element spills into the footer | Add a min-height style rule to the parent element of the navigation elements.|
+| When viewing the contact page in Firefox the textarea overflows the form element horizontally.| Add a max-width rule of 265px targeting the textarea element.|
+| When viewing the about/media/reviews/contact page on amiresponsive navbar text would wrap. | Create a media query for screens under a width of 320px to adjust size and positioning of navbar text to avoid potential breaking of page on unexpectedly small screen.|
+
+### Known Bugs
+
+On Google Chrome on the Huawei PSmart 2019 (EMUI android) device, the drop-down searchbar from the browser causes fixed backgrounds to move up and down occasionally which can be distracting when scrolling down the home page, review page, and contact page. 
+
+Since the bug has a very limited impact on the user's ability to use the site and will only affect a subset of users, this bug was not addressed given the time limitations of the developer for this project.
+
+## Credits
 * The 404 page was created with the help of GitHub's [instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site) on how to create a custom 404 page.
 
 ### 3rd party code used
@@ -321,3 +330,8 @@ The performance of the website was tested using Lighthouse within Chrome develop
     1. Durham Castle at night time: [Wikimedia](https://commons.wikimedia.org/wiki/File:The_Keep_and_Gatehouse_of_Durham_Castle_at_night.jpg )
     1. Durham Cathedral at night time: [Branipick](https://places.branipick.com/durham-cathedral-last-night-in-the-royal-colour/)
 * The video which appears in the media page was also sent to me directly by one of the band members and is used on this site with permission.
+
+### Acknowledgements
+* Thanks to my Mentor Mo Shami for his feedback, advice and encouragement throughout this project.
+* Thanks to the wonderful CI slack community for helping me troubleshoot various bugs, as well as for help with creating a form submission thanks page.
+* Thanks to the CI London Community, Namely Harry Dhillon, Ben Dawson, and Richard Lovett for making me feel welcome at Code Institute and for offering to help with fixing code issues.
