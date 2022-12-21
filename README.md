@@ -166,7 +166,12 @@ The wireframes below were created using [figma](https://www.figma.com/). The lay
 <br>
 
 ## Features
-The website has 6 pages and 
+The website has 6 pages and the features of each page are listed below:
+
+<details>
+    <summary>Home page</summary>
+    
+</details><br>
 
 ## Technologies Used
 ### Languages used
