@@ -356,10 +356,18 @@ All HTML files were validated using the [w3c vaildation service](https://validat
     <img src="readme-docs/validation/thanks-html-valid.png" alt="A screenshot of the validator confirming the thanks page has no HTML errors">
 </details><br>
 
+<details>
+    <summary>404 page</summary>
+    <img src="readme-docs/validation/thanks-html-valid.png" alt="A screenshot of the validator confirming the 404 page has no HTML errors">
+</details><br>
+
 #### **CSS**
 The stylesheet for this website was validated using the W3C [Jigsaw](https://jigsaw.w3.org/css-validator/) CSS validation service. The file contained no errors.
 
-<img src="readme-docs/validation/css-valid.png" alt="A screenshot of the validation site confirming no CSS errors">
+<details>
+    <summary>CSS for whole site</summary>
+    <img src="readme-docs/validation/css-valid.png" alt="A screenshot of the validation site confirming no CSS errors">
+</details>
 
 #### **Accessibility**
 The site's accessibility was tested using the [WAVE](https://wave.webaim.org/) tool by webaim. All pages passed with no errors or contrast errors.
@@ -386,6 +394,16 @@ The site's accessibility was tested using the [WAVE](https://wave.webaim.org/) t
 
 <details>
     <summary>Contact page</summary>
+    <img src="readme-docs/validation/contact-access-valid.png" alt="A screenshot of the validator confirming the contact page has no accessibility errors">
+</details><br>
+
+<details>
+    <summary>Thanks/form submit page</summary>
+    <img src="readme-docs/validation/contact-access-valid.png" alt="A screenshot of the validator confirming the contact page has no accessibility errors">
+</details><br>
+
+<details>
+    <summary>404 page</summary>
     <img src="readme-docs/validation/contact-access-valid.png" alt="A screenshot of the validator confirming the contact page has no accessibility errors">
 </details><br>
 
@@ -417,6 +435,16 @@ The performance of the website was tested using Lighthouse within Chrome develop
     <img src="readme-docs/validation/contact-performance.png" alt="A screenshot of the performance report for the contact page.">
 </details><br>
 
+<details>
+    <summary>Thanks/form submit page</summary>
+    <img src="readme-docs/validation/contact-performance.png" alt="A screenshot of the performance report for the contact page.">
+</details><br>
+
+<details>
+    <summary>404 page</summary>
+    <img src="readme-docs/validation/contact-performance.png" alt="A screenshot of the performance report for the contact page.">
+</details><br>
+
 ### Testing user stories
 
 #### **First-time user**
@@ -424,25 +452,96 @@ The performance of the website was tested using Lighthouse within Chrome develop
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
 |1. Easily access information about the band.| Navbar |Starting at home page navigate to about page and reviews page. |Find and access these pages with no problems, easily read information there. | Works as expected. |
+
+<details>
+<summary>Screenshots</summary>
+
+</details>
+
+|User story|Feature|Test|Expected Result|Actual Result|
+|---|---|---|---|---|
 |2. See pictures and media of the band playing. | Video and soundcloud elements. | Click play on the video and on the soundcloud player, and adjust volume. | Video and audio to play as expected, controls to navigate/adjust volume present.| Works as expected. |
+
+<details>
+<summary>Screenshots</summary>
+
+</details>
+
+|User story|Feature|Test|Expected Result|Actual Result|
+|---|---|---|---|---|
 |3. Easily contact the band.|Contact Form | Fill out the contact form with required information and click submit. | To get some feedback that the form data has been submitted to the band. | Works as expected. |
+
+<details>
+<summary>Screenshots</summary>
+
+</details>
+
+|User story|Feature|Test|Expected Result|Actual Result|
+|---|---|---|---|---|
 |4. Have a pleasurable experience using the site. | Buttons/navigation | Selecting and hovering over the buttons such as the navbar & logo, 'book now' buttons, and 'Enter site' buttons. | For buttons to provide visual feedback that they work. | Work as expected. 'Enter site' button provides smooth animation to navigation section.|
+
+<details>
+<summary>Screenshots</summary>
+
+</details>
 
 #### **Returning user**
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
 |5. Return to contact page to make repeat booking.|Navbar |From the home page access the contact page quickly. | Go straight to contact page from link in the home page's navbar | Works as expected.|
+
+<details>
+<summary>Screenshots</summary>
+
+</details>
+
+|User story|Feature|Test|Expected Result|Actual Result|
+|---|---|---|---|---|
 |6. Easily access social media links. |Footer | From the home page scroll down and click on the social media icons. | To be directed to the correct social media platforms and pages from the links. | Works as expected. |
+
+<details>
+<summary>Screenshots</summary>
+
+</details>
+
+|User story|Feature|Test|Expected Result|Actual Result|
+|---|---|---|---|---|
 |7. Easily share the site with friends (who may use different browsers).|Site responsive design. | Open up site url in firefox and Edge.| For the site to look and work without breaking. |Works as expected.|
+
+<details>
+<summary>Screenshots</summary>
+
+</details>
 
 #### **Site owner/band member**
 
 |User story|Feature|Test|Expected Result|Actual Result|
 |---|---|---|---|---|
 |8. Have a place where I can market the band's services to potential clients. | Reviews | From the homepage access the reviews section and easily read reviews from other customers. | Links to reviews page to work, reviews to be readable.|Works as expected.|
+
+<details>
+<summary>Screenshots</summary>
+
+</details>
+
+|User story|Feature|Test|Expected Result|Actual Result|
+|---|---|---|---|---|
 |9. Have a place where customers can contact the band without having a personal email address visible to users.| Contact form | See 3rd user story.|See 3rd user story.|See 3rd user story.|
+
+<details>
+<summary>Screenshots</summary>
+
+</details>
+
+|User story|Feature|Test|Expected Result|Actual Result|
+|---|---|---|---|---|
 |10. Have a place to showcase my band's performance.|Video/Soundcloud|See 2nd user story.|See 2nd user story.|See 2nd user story.|
+
+<details>
+<summary>Screenshots</summary>
+
+</details>
 
 ### Bugs
 
