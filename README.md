@@ -416,6 +416,32 @@ The performance of the website was tested using Lighthouse within Chrome develop
 </details><br>
 
 ### Testing user stories
+
+#### **First-time user**
+
+|User story|Feature|Test|Expected Result|Actual Result|
+|---|---|---|---|---|
+|Easily access information about the band.| Navbar |Starting at home page navigate to about page and reviews page. |Find and access these pages with no problems, easily read information there. | Works as expected. |
+|See pictures and media of the band playing. | Video and soundcloud elements. | Click play on the video and on the soundcloud player, and adjust volume. | Video and audio to play as expected, controls to navigate/adjust volume present.| Works as expected. |
+|Easily contact the band.|Contact Form | Fill out the contact form with required information and click submit. | To get some feedback that the form data has been submitted to the band. | Works as expected. |
+| Have a pleasurable experience using the site. | Buttons/navigation | Selecting and hovering over the buttons such as the navbar & logo, 'book now' buttons, and 'Enter site' buttons. | For buttons to provide visual feedback that they work. | Work as expected. 'Enter site' button provides smooth animation to navigation section.|
+
+#### **Returning user**
+
+|User story|Feature|Test|Expected Result|Actual Result|
+|---|---|---|---|---|
+|Return to contact page to make repeat booking.|Navbar |From the home page access the contact page quickly. | Go straight to contact page from link in the home page's navbar | Works as expected.|
+|Easily access social media links. |Footer | From the home page scroll down and click on the social media icons. | To be directed to the correct social media platforms and pages from the links. | Works as expected. |
+|Easily share the site with friends (who may use different browsers).|Site responsive design. | Open up site url in firefox and Edge.| For the site to look and work without breaking. |Works as expected.|
+
+#### **Site owner/band member**
+
+|User story|Feature|Test|Expected Result|Actual Result|
+|---|---|---|---|---|
+| Have a place where I can market the band's services to potential clients. | Reviews | From the homepage access the reviews section and easily read reviews from other customers. | Links to reviews page to work, reviews to be readable.|Works as expected.|
+|Have a place where customers can contact the band without having a personal email address visible to users.| Contact form | See 3rd user story.|See 3rd user story.|See 3rd user story.|
+| Have a place to showcase my band's performance.|Video/Soundcloud|See 2nd user story.|See 2nd user story.|See 2nd user story.|
+
 ### Bugs
 
 | Bug Description  | Action Taken to Fix  |
