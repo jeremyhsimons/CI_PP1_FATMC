@@ -579,7 +579,14 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
 <details>
 <summary>Screenshots</summary>
-
+<p>Start at home page</p>
+<img src="readme-docs/testing-user-stories/404-part-1.png" alt="Screen shot of home page"><br>
+<p>hover over the enter site button and see the colours change</p>
+<img src="readme-docs/testing-user-stories/userstory-5-part-1.png" alt="Screen shot of home page with enter site button hover/clicked"><br>
+<p>Home page scrolls down smoothly</p>
+<img src="readme-docs/testing-user-stories/userstory-5-part-2.png" alt="Screen shot of home page scrolling down smoothly"><br>
+<p>Scrolling stops at the navigation section</p>
+<img src="readme-docs/testing-user-stories/userstory-5-part-3.png" alt="Screen shot of home page navigation section."><br>
 </details>
 
 |User story|Feature|Test|Expected Result|Actual Result|
@@ -588,6 +595,16 @@ The performance of the website was tested using Lighthouse within Chrome develop
 
 <details>
 <summary>Screenshots</summary>
+<p>Start at the home page</p>
+<img src="readme-docs/testing-user-stories/404-part-1.png" alt="Screen shot of home page"><br>
+<p>Break the url</p>
+<img src="readme-docs/testing-user-stories/404-part-2.png" alt="Screen shot of home page with broken link"><br>
+<p>Hit enter and get directed to 404 page</p>
+<img src="readme-docs/testing-user-stories/404-part-3.png" alt="Screen shot of 404 page"><br>
+<p>Click the link on 404 page</p>
+<img src="readme-docs/testing-user-stories/404-part-4.png" alt="Screen shot of 404 page with return to homepage button clicked"><br>
+<p>Redirected to home page</p>
+<img src="readme-docs/testing-user-stories/404-part-1.png" alt="Screen shot of home page">
 
 </details>
 
