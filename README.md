@@ -1,5 +1,5 @@
 # **Forster and the Mustard Cutters**
-developed by Jeremy Simons (Saxophonist in FATMC)
+Developed by Jeremy Simons (Saxophonist in FATMC)
 
 <img src="readme-docs/am-i-responsive.png" alt="a screenshot of the site's home page displayed on various devices, provided by ui.dev/amiresponsive">
 <br>
@@ -7,7 +7,7 @@ developed by Jeremy Simons (Saxophonist in FATMC)
 [Link to live site](https://jeremyhsimons.github.io/CI_PP1_FATMC/)
 
 ## Introduction
-Having a strong online presence is a must for any serious musician in the 21st century. As well as generating social media followings, many musicians rely on sleek and stylish websites to act as a one-stop shop for any professional or business interaction they might have. SiteBuilderReport has listed some of the most effective [Websites](https://www.sitebuilderreport.com/inspiration/musician-website-examples?a=ga&keyword=musician%20websites&ad=574357467827&gclid=CjwKCAiApvebBhAvEiwAe7mHSDz1iMLpK8_tTCcjodhHX_uALxVNPRLPNiTwbmQ1u95UPJYPdK6PIhoCHvYQAvD_BwE) used by popular musicians today and common features include:
+Having a strong online presence is a must for any serious musician in the 21st century. As well as generating social media followings, many musicians rely on sleek and stylish websites to act as a one-stop shop for any professional interaction they might have. SiteBuilderReport has listed some of the most effective [Websites](https://www.sitebuilderreport.com/inspiration/musician-website-examples?a=ga&keyword=musician%20websites&ad=574357467827&gclid=CjwKCAiApvebBhAvEiwAe7mHSDz1iMLpK8_tTCcjodhHX_uALxVNPRLPNiTwbmQ1u95UPJYPdK6PIhoCHvYQAvD_BwE) used by popular musicians today and common features include:
 * Links to social media accounts.
 * A store for purchasing merchandise.
 * Links or embedded video for Listening to and watching the musician or band perform.
@@ -53,7 +53,7 @@ Forster and the Mustard Cutters is a Durham-based function band with lots of exp
 ### ...For the site owner
 1. To promote the band/have an avenue to receive more bookings.
 1. To promote the band's social media presence.
-1. To entertain visitors to the website.
+1. To entertain users of the website.
 
 ## User Experience
 
@@ -108,7 +108,7 @@ As a **website owner** or **band member** I want to:<br>
 The aim of this website's design is to make the customer feel like this band is fun and lighthearted whilst also being professional and easy to work with. This influenced both the colour scheme chosen for the website and the layout which are described below.
 
 ### Colour Scheme
-Colormind.io was used to generate the colorscheme for this website. A key color that was included in this was the hex value #FFDB58 which is the mustard colour. This 'mustard' tone colour linked the website's design to the band's name and branding. 
+[Colormind.io](http://colormind.io/) was used to generate the colorscheme for this website. A key color that was included in this was the hex value #FFDB58 which is the mustard colour. This 'mustard' tone colour linked the website's design to the band's name and branding. 
 
 The warm colors were chosen to give the user a sense of this being a friendly and fun band who are good to work with and who can generate a positive atmosphere when performing at a party/event.
 
